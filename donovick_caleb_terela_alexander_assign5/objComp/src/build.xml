@@ -1,0 +1,116 @@
+<project name="objComp" default="compile_all" basedir="..">
+
+
+    <property name="BUILD.compiler"       value="modern"/>
+    <property name="src"                  value="src"/>
+    <property name="BUILD"                value="BUILD"/>
+    <property name="classes"              value="${BUILD}/classes"/>
+
+    <target name="all" depends="compile_all"/>
+
+    <target name="compile_all"
+        depends="objComp"/>
+
+    <target name="clean">
+        <delete dir="${BUILD}"/>
+    </target>
+
+
+    <!-- Prepare target directories -->
+    <target name="prepare">
+        <mkdir dir="${BUILD}"/>
+        <mkdir dir="${classes}"/>
+    </target>
+
+
+    <target name="jar">
+        <mkdir dir="${BUILD}/jar"/>
+        <jar destfile="${BUILD}/jar/objComp.jar" basedir="${BUILD}/classes">
+            <manifest>
+                <attribute name="Main-Class" value="objComp.driver.Driver"/>
+            </manifest>
+        </jar>
+    </target>
+
+
+
+    <!-- ** means all subdirectories as well -->
+    <!-- * means all files in the current directory -->
+    <!-- for just java files use *.java -->
+
+    <target name="objComp" depends="prepare">
+        <javac srcdir="${src}"
+            includes="objComp/**"
+            excludes="**/package.html"
+            destdir="${classes}"
+            classpath="${classes}"
+            debug="on"
+            includeantruntime="false"
+            optimize="on"
+            deprecation="off"/>
+    </target>
+
+
+    <target name="run" depends="jar">
+        <java jar="${BUILD}/jar/objComp.jar"  fork="true">
+            <!-- Input Filename -->
+            <!-- <arg value="new_in1.txt"/> -->
+            <arg value="${arg0}"/> 
+
+            <!-- Number of iterations -->
+            <!-- <arg value="10"/> -->
+            <arg value="${arg1}"/>
+
+            <!-- Logger Level -->
+            <!-- <arg value="0"/> -->
+            <arg value="${arg2}"/>
+
+            <!-- use 8G of memory  -->
+            <!-- -->
+            <jvmarg value="-Xmn2G" />
+            <jvmarg value="-Xms4G" />
+            <jvmarg value="-Xmx8G" />
+
+            <!-- disable assertions -->
+            <jvmarg value="-da" />
+
+
+            <!-- Use big pages -->
+            <!--
+            <jvmarg value="-XX:+UseLargePages"/>
+            -->
+
+            <!-- Use 64 bit -->
+            <jvmarg value="-d64" />
+            <jvmarg value="-server" />
+
+            <!-- Agressive opts -->
+            <jvmarg value="-XX:+AggressiveOpts" />
+
+        </java>
+
+    </target>
+
+    <target name="tarzip" > 
+        <delete file="./donovick_caleb_terela_alexander_assign5.tar" quiet="true" /> 
+        <tar destfile="${BUILD}/dist/donovick_caleb_terela_alexander_assign5.tar.gz" basedir="../../" compression="gzip"/>
+    </target>
+
+    <target name="profile" depends ="jar">
+        <java jar="${BUILD}/jar/objComp.jar"  fork="true">
+            <!-- Input Filename -->
+            <!-- <arg value="new_in1.txt"/> -->
+            <arg value="${arg0}"/>
+
+            <!-- Number of iterations -->
+            <!-- <arg value="10"/> -->
+            <arg value="${arg1}"/>
+
+            <!-- Logger Level -->
+            <!-- <arg value="0"/> -->
+            <arg value="${arg2}"/>
+
+            <jvmarg value="-Xrunhprof:cpu=y,file=log.txt,depth=6,interval=3,thread=y"/>
+        </java>
+    </target>
+</project>
