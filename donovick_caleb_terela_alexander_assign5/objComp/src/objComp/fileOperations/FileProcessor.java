@@ -10,6 +10,7 @@ import java.util.List;
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.charset.Charset;
+
 /**
  * FileProcessor - contains methods to read a line and write to a file
  */

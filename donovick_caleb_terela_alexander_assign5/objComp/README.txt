@@ -1,9 +1,9 @@
 CS442 Design Patterns
 Spring 2015
-ASSIGNMENT #4 README FILE
+ASSIGNMENT #5 README FILE
 
-Due Date: <Wednesday, April 22, 2015>
-Submission Date: <Wednesday, April 22, 2015>
+Due Date: <Monday, May 4, 2015>
+Submission Date: <Monday, May 4, 2015>
 Grace Period Used This Project: <0> Days
 Grace Period Remaining: <0> Days
 Author(s): <CALEB DONOVICK> <ALEXANDER TERELA>
@@ -12,7 +12,7 @@ e-mail(s): <CDONOVI1@BINGHAMTON.EDU> <ATERELA1@BINGHAMTON.EDU>
 
 PURPOSE:
 
-This assignment models the visitor pattern
+This assignment models java reflection and object comparison
 
 PERCENT COMPLETE:
 
@@ -28,27 +28,24 @@ None
 
 FILES:
 
-  Included with this project are 15 files:
+  Included with this project are 6 files:
 
-  Driver - tests the wordCount program
-  Tree - contains the tree data structure
-  FileProcessor - contains methods to read a line and write to a file
+  Driver - tests the objComp program
+  FileProcessor - contains methods to read the input file a line at a time
   MyLogger - simulates the java logger class
-  PopulateTreeVisitor - visitor class that reads words from a file and populates a tree data structure
-  Visitor - interface which contains visit methods for each element
-  WordCountVisitor - visitor that determines the total number of words and characters in the tree and stores them in output file
+
   README.txt, the text file you are presently reading
 
 	In the README.txt, there are 4 levels that the MyLogger class can be set to:
-		- 0: No output is printed other than error messages.
-		- 1: Only output from the dashboard is printed
+		- 0: Outputs the 5 output lines of the Driver
+		- 1: Only output from PopulateObjects is printed
 		- 2: Output is printed when constructors are called
 		- 3: Output is printed when other methods are called
 		- 4: No output is printed at all
 
 JUSTIFICATION:
 
-We chose to use the tree map data structure instead of creating our own, as we believed that a standard data structure would perform extremely similar to any structure that we would have implemented. Instead of creating our own data structure, we instead opted for further optimization with the reading in of the file into a hash map and then populating the tree map with that data from the hash map. We used the maximum number of available threads on the current system running the program in order to greatly reduce the execution time of populating the tree and to save time in the summation of the total words, unique words, and characters. For final optimizations, we utilized flags in our build.xml file in order to allocate a higher amount of memory to improve program performance and called the aggressive optimization flag for the JVM. Lastly, throughout our development of the program, we made use of an ant task to profile the program and find the most inefficient portions of code in order to improve them, which resulted in all of our optimizations.
+
 
 SAMPLE OUTPUT:
 
@@ -76,13 +73,13 @@ TO RUN:
 ## To run, edit the build.xml to enter args (search for arg0, arg1, arg2, arg3)
 Assuming you are in the directory containing this README:
 
-ex. ant -buildfile src/build.xml -Darg0=‘inputFile.txt’ -Darg1=‘outputFile.txt’ -Darg2=‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4’ Darg3=‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4 run
+ex. ant -buildfile src/build.xml -Darg0=‘inputFile.txt’ -Darg2=NUM_ITERATIONS ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4’ Darg3=DUBUG_VALUE ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4 run
 
-ant -buildfile src/build.xml -Darg0=new_in1.txt -Darg1=output.txt -Darg2=0 -Darg3=4 run
+ant -buildfile src/build.xml -Darg0=new_in1.txt -Darg1=0 -Darg2=4 run
 
 EXTRA CREDIT:
 
-We created an ant task to profile the program and used JVM flags for compiler optimization and efficiency. We also included javadoc for all classes and methods.
+
 
 BIBLIOGRAPHY:
 
