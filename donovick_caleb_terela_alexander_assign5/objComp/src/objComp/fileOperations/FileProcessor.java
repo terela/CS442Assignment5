@@ -1,4 +1,4 @@
-package wordCount.util;
+package objComp.fileOperations;
 
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -11,6 +11,7 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.charset.Charset;
 
+import objComp.util.MyLogger;
 /**
  * FileProcessor - contains methods to read a line and write to a file
  */

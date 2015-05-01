@@ -1,4 +1,4 @@
-package wordCount.util;
+package objComp.util;
 
 /**
  * MyLogger - simulates the java logger class

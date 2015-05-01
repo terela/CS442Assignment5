@@ -3,6 +3,9 @@ package objComp.util;
 import objComp.util.First;
 import objComp.util.Second;
 
+import objComp.util.MyLogger;
+import objComp.fileOperations.FileProcessor;
+
 import java.util.Map;
 import java.util.HashMap;
 
@@ -12,7 +15,7 @@ import java.util.HashMap;
 public class PopulateObjects {
     private Map<First, Integer> firstMap;
     private Map<Second, Integer> secondMap;
-
+    private static final int num_threads = Runtime.getRuntime().availableProcessors();
 	/**
 	 * deserObjects - reads data member values from the input file and accordingly create instances of first and second
 	 *
