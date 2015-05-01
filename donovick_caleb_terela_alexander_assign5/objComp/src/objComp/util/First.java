@@ -41,13 +41,31 @@ public class First {
 
 	}
 
-	// override equals
-	
+	/**
+	 * equals - checks equality
+	 *
+	 * @return boolean
+	 */
+    @Override
+    public boolean equals(Object o) {
+        return ((o instanceof First) && 
+                (IntValue == ((First) o).IntValue) && 
+                (StringValue == ((First) o).StringValue));
+    }
 
 
-	// override hashCode
-	
-
-
-
+	/**
+	 * hashCode - generates a hashcode
+	 *
+	 * @return int
+	 */
+    @Override
+    public int hashCode() {
+        return IntValue + 
+            31 * StringValue.length() + 
+            37 * StringValue.charAt(0) + 
+            41 * StringValue.charAt(StringValue.length()/2) + 
+            47 * StringValue.charAt(StringValue.length() - 1) +
+            67 * StringValue.charAt(IntValue % StringValue.length());
+    }
 }

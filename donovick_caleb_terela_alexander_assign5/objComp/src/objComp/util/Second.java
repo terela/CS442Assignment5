@@ -31,7 +31,7 @@ public class Second {
 	}
 
 	/**
-	 * setDoubleValue - setst the double private data member value
+	 * setDoubleValue - sets the double private data member value
 	 *
 	 * @return none
 	 */
@@ -41,13 +41,26 @@ public class Second {
 
 	}
 
-	// override equals
-	
+	/**
+	 * equals - checks equality
+	 *
+	 * @return boolean
+	 */
+    @Override
+    public boolean equals(Object o) {
+        return ((o instanceof Second) && 
+                (IntValue == ((Second) o).IntValue) && 
+                (DoubleValue == ((Second) o).DoubleValue));
+    }
 
 
-	// override hashCode
-	
-
-
-
+	/**
+	 * hashCode - generates a hashcode
+	 *
+	 * @return int
+	 */
+    @Override
+    public int hashCode() {
+        return IntValue + 3 * ((Double) DoubleValue).hashCode();
+    }
 }
