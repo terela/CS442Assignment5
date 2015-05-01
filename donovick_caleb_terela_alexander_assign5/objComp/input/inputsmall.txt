@@ -1,0 +1,42 @@
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=42.1
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=tediously
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=tediously
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.93
+type=int, var=IntValue, value=56
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=burden
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.26
+type=int, var=IntValue, value=25
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=49.0
+type=int, var=IntValue, value=84
+fqn:objComp.util.Second
+type=int, var=IntValue, value=84
+type=double, var=DoubleValue, value=49.0
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=tediously
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=44.38
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=72.72
+fqn:objComp.util.First
+type=String, var=StringValue, value=lizzie
+type=int, var=IntValue, value=67
+fqn:objComp.util.First
+type=int, var=IntValue, value=11
+type=String, var=StringValue, value=adjoin
+fqn:objComp.util.Second
+type=int, var=IntValue, value=25
+type=double, var=DoubleValue, value=18.26

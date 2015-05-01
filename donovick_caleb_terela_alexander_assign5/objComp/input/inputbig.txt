@@ -1,0 +1,3000 @@
+fqn:objComp.util.Second
+type=int, var=IntValue, value=38
+type=double, var=DoubleValue, value=55.58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=33.31
+type=int, var=IntValue, value=13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=72.81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=85.05
+type=int, var=IntValue, value=53
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.15
+type=int, var=IntValue, value=96
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.28
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=22
+type=String, var=StringValue, value=whipping
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=63.79
+type=int, var=IntValue, value=95
+fqn:objComp.util.First
+type=String, var=StringValue, value=snide
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=46.76
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=41.06
+type=int, var=IntValue, value=88
+fqn:objComp.util.First
+type=int, var=IntValue, value=82
+type=String, var=StringValue, value=mariners
+fqn:objComp.util.Second
+type=int, var=IntValue, value=22
+type=double, var=DoubleValue, value=14.38
+fqn:objComp.util.First
+type=int, var=IntValue, value=57
+type=String, var=StringValue, value=caspar
+fqn:objComp.util.First
+type=String, var=StringValue, value=bondsmans
+type=int, var=IntValue, value=66
+fqn:objComp.util.First
+type=String, var=StringValue, value=copernicuss
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=int, var=IntValue, value=27
+type=String, var=StringValue, value=extremes
+fqn:objComp.util.First
+type=int, var=IntValue, value=87
+type=String, var=StringValue, value=franchises
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=5.06
+type=int, var=IntValue, value=70
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=behalfs
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=52.83
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.15
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=16.2
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.52
+type=int, var=IntValue, value=4
+fqn:objComp.util.First
+type=int, var=IntValue, value=32
+type=String, var=StringValue, value=overhung
+fqn:objComp.util.First
+type=int, var=IntValue, value=83
+type=String, var=StringValue, value=bashed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=9.68
+type=int, var=IntValue, value=45
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=magnifiers
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=froths
+fqn:objComp.util.First
+type=int, var=IntValue, value=2
+type=String, var=StringValue, value=tadzhikistans
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.38
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=int, var=IntValue, value=22
+type=double, var=DoubleValue, value=71.33
+fqn:objComp.util.First
+type=int, var=IntValue, value=19
+type=String, var=StringValue, value=digressive
+fqn:objComp.util.First
+type=String, var=StringValue, value=index
+type=int, var=IntValue, value=93
+fqn:objComp.util.First
+type=String, var=StringValue, value=desolate
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=String, var=StringValue, value=jackhammer
+type=int, var=IntValue, value=24
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=attentive
+fqn:objComp.util.First
+type=int, var=IntValue, value=40
+type=String, var=StringValue, value=defrosters
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.46
+type=int, var=IntValue, value=71
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=verbals
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=lorena
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=salesmen
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.33
+type=int, var=IntValue, value=41
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=35.05
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=89.97
+fqn:objComp.util.Second
+type=int, var=IntValue, value=53
+type=double, var=DoubleValue, value=7.81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=13.93
+type=int, var=IntValue, value=62
+fqn:objComp.util.First
+type=String, var=StringValue, value=dared
+type=int, var=IntValue, value=24
+fqn:objComp.util.Second
+type=int, var=IntValue, value=10
+type=double, var=DoubleValue, value=99.66
+fqn:objComp.util.First
+type=String, var=StringValue, value=verge
+type=int, var=IntValue, value=2
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=72.64
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=backslappers
+fqn:objComp.util.Second
+type=int, var=IntValue, value=25
+type=double, var=DoubleValue, value=93.87
+fqn:objComp.util.Second
+type=int, var=IntValue, value=8
+type=double, var=DoubleValue, value=30.97
+fqn:objComp.util.Second
+type=int, var=IntValue, value=90
+type=double, var=DoubleValue, value=56.08
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=48.01
+type=int, var=IntValue, value=30
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=eruptions
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=38.68
+type=int, var=IntValue, value=83
+fqn:objComp.util.First
+type=String, var=StringValue, value=pop
+type=int, var=IntValue, value=13
+fqn:objComp.util.First
+type=String, var=StringValue, value=supervenes
+type=int, var=IntValue, value=46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=50
+type=double, var=DoubleValue, value=90.53
+fqn:objComp.util.First
+type=String, var=StringValue, value=pious
+type=int, var=IntValue, value=52
+fqn:objComp.util.First
+type=int, var=IntValue, value=63
+type=String, var=StringValue, value=rumoring
+fqn:objComp.util.First
+type=String, var=StringValue, value=ireland
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=83
+type=String, var=StringValue, value=drag
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=officemaxs
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=62.51
+type=int, var=IntValue, value=60
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=70.21
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=8.58
+type=int, var=IntValue, value=20
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=68.88
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=98
+type=double, var=DoubleValue, value=8.58
+fqn:objComp.util.Second
+type=int, var=IntValue, value=36
+type=double, var=DoubleValue, value=42.69
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=6.29
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=12
+type=String, var=StringValue, value=bushs
+fqn:objComp.util.Second
+type=int, var=IntValue, value=94
+type=double, var=DoubleValue, value=60.29
+fqn:objComp.util.First
+type=String, var=StringValue, value=charmin
+type=int, var=IntValue, value=18
+fqn:objComp.util.First
+type=String, var=StringValue, value=julys
+type=int, var=IntValue, value=29
+fqn:objComp.util.First
+type=String, var=StringValue, value=admixtures
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=21.28
+fqn:objComp.util.First
+type=String, var=StringValue, value=mephistopheles
+type=int, var=IntValue, value=67
+fqn:objComp.util.First
+type=String, var=StringValue, value=stretch
+type=int, var=IntValue, value=50
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=13.84
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=int, var=IntValue, value=16
+type=double, var=DoubleValue, value=18.64
+fqn:objComp.util.First
+type=String, var=StringValue, value=grizzled
+type=int, var=IntValue, value=99
+fqn:objComp.util.Second
+type=int, var=IntValue, value=97
+type=double, var=DoubleValue, value=74.53
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=45.78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.77
+type=int, var=IntValue, value=15
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=54.84
+fqn:objComp.util.Second
+type=int, var=IntValue, value=32
+type=double, var=DoubleValue, value=75.44
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.38
+type=int, var=IntValue, value=81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=57.32
+type=int, var=IntValue, value=13
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=bramble
+fqn:objComp.util.Second
+type=int, var=IntValue, value=75
+type=double, var=DoubleValue, value=39.78
+fqn:objComp.util.Second
+type=int, var=IntValue, value=24
+type=double, var=DoubleValue, value=89.99
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.0
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=99.79
+type=int, var=IntValue, value=51
+fqn:objComp.util.First
+type=String, var=StringValue, value=reunion
+type=int, var=IntValue, value=46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=12
+type=double, var=DoubleValue, value=76.29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=37.36
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=int, var=IntValue, value=76
+type=String, var=StringValue, value=smatterings
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=25.39
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=55.07
+type=int, var=IntValue, value=49
+fqn:objComp.util.First
+type=int, var=IntValue, value=48
+type=String, var=StringValue, value=picketed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=21.12
+type=int, var=IntValue, value=12
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=jibbed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=14.75
+type=int, var=IntValue, value=52
+fqn:objComp.util.First
+type=String, var=StringValue, value=foulness
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=int, var=IntValue, value=24
+type=String, var=StringValue, value=antechambers
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=46.99
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=int, var=IntValue, value=1
+type=String, var=StringValue, value=itchy
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=48.5
+type=int, var=IntValue, value=68
+fqn:objComp.util.Second
+type=int, var=IntValue, value=47
+type=double, var=DoubleValue, value=22.79
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=17.99
+type=int, var=IntValue, value=68
+fqn:objComp.util.First
+type=int, var=IntValue, value=77
+type=String, var=StringValue, value=laundresss
+fqn:objComp.util.First
+type=String, var=StringValue, value=militate
+type=int, var=IntValue, value=40
+fqn:objComp.util.First
+type=int, var=IntValue, value=6
+type=String, var=StringValue, value=sleepyheads
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=pantheists
+fqn:objComp.util.First
+type=String, var=StringValue, value=obdurate
+type=int, var=IntValue, value=80
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=toffies
+fqn:objComp.util.Second
+type=int, var=IntValue, value=13
+type=double, var=DoubleValue, value=27.45
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=unsupportable
+fqn:objComp.util.First
+type=int, var=IntValue, value=22
+type=String, var=StringValue, value=cutlass
+fqn:objComp.util.First
+type=int, var=IntValue, value=20
+type=String, var=StringValue, value=deletes
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=86.73
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=bootless
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=56.22
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=String, var=StringValue, value=vandals
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=oakland
+fqn:objComp.util.First
+type=String, var=StringValue, value=keokuk
+type=int, var=IntValue, value=82
+fqn:objComp.util.First
+type=int, var=IntValue, value=25
+type=String, var=StringValue, value=overwhelms
+fqn:objComp.util.Second
+type=int, var=IntValue, value=89
+type=double, var=DoubleValue, value=41.48
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=60.58
+fqn:objComp.util.First
+type=int, var=IntValue, value=8
+type=String, var=StringValue, value=taprooms
+fqn:objComp.util.Second
+type=int, var=IntValue, value=92
+type=double, var=DoubleValue, value=41.57
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.59
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=57.21
+type=int, var=IntValue, value=38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=36.69
+type=int, var=IntValue, value=37
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=keatons
+fqn:objComp.util.First
+type=String, var=StringValue, value=notebook
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=76.89
+fqn:objComp.util.First
+type=String, var=StringValue, value=armageddons
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=int, var=IntValue, value=31
+type=double, var=DoubleValue, value=23.33
+fqn:objComp.util.First
+type=String, var=StringValue, value=estrada
+type=int, var=IntValue, value=6
+fqn:objComp.util.First
+type=String, var=StringValue, value=phrase
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=weizmann
+fqn:objComp.util.First
+type=String, var=StringValue, value=cognac
+type=int, var=IntValue, value=22
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=boys
+fqn:objComp.util.Second
+type=int, var=IntValue, value=85
+type=double, var=DoubleValue, value=99.46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=46
+type=double, var=DoubleValue, value=69.49
+fqn:objComp.util.First
+type=int, var=IntValue, value=55
+type=String, var=StringValue, value=blarneyed
+fqn:objComp.util.First
+type=String, var=StringValue, value=corot
+type=int, var=IntValue, value=86
+fqn:objComp.util.First
+type=int, var=IntValue, value=95
+type=String, var=StringValue, value=savage
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.1
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.18
+type=int, var=IntValue, value=86
+fqn:objComp.util.First
+type=int, var=IntValue, value=70
+type=String, var=StringValue, value=bum
+fqn:objComp.util.First
+type=int, var=IntValue, value=9
+type=String, var=StringValue, value=tarpons
+fqn:objComp.util.First
+type=String, var=StringValue, value=axs
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=works
+fqn:objComp.util.First
+type=String, var=StringValue, value=stalactites
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.97
+type=int, var=IntValue, value=76
+fqn:objComp.util.First
+type=String, var=StringValue, value=kleenex
+type=int, var=IntValue, value=91
+fqn:objComp.util.First
+type=String, var=StringValue, value=arenas
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=85
+type=double, var=DoubleValue, value=67.42
+fqn:objComp.util.Second
+type=int, var=IntValue, value=96
+type=double, var=DoubleValue, value=22.11
+fqn:objComp.util.Second
+type=int, var=IntValue, value=17
+type=double, var=DoubleValue, value=52.46
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=motivator
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=84.3
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=12
+type=double, var=DoubleValue, value=54.5
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=75.95
+type=int, var=IntValue, value=87
+fqn:objComp.util.First
+type=String, var=StringValue, value=terminate
+type=int, var=IntValue, value=30
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=75.69
+type=int, var=IntValue, value=42
+fqn:objComp.util.First
+type=String, var=StringValue, value=soliloquize
+type=int, var=IntValue, value=7
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=20.91
+type=int, var=IntValue, value=23
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=74.1
+type=int, var=IntValue, value=29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=74.8
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=82.05
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=11.13
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=38.09
+type=int, var=IntValue, value=58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=26.49
+type=int, var=IntValue, value=3
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=chickweeds
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=29.59
+type=int, var=IntValue, value=93
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.59
+type=int, var=IntValue, value=3
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=lugers
+fqn:objComp.util.First
+type=String, var=StringValue, value=ladybirds
+type=int, var=IntValue, value=17
+fqn:objComp.util.First
+type=String, var=StringValue, value=inclement
+type=int, var=IntValue, value=82
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=49.81
+type=int, var=IntValue, value=14
+fqn:objComp.util.First
+type=String, var=StringValue, value=practitioners
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=7
+type=double, var=DoubleValue, value=92.43
+fqn:objComp.util.First
+type=int, var=IntValue, value=98
+type=String, var=StringValue, value=inebriation
+fqn:objComp.util.Second
+type=int, var=IntValue, value=21
+type=double, var=DoubleValue, value=95.73
+fqn:objComp.util.First
+type=String, var=StringValue, value=maladjustments
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=36.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=76
+type=String, var=StringValue, value=bested
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=52.62
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=String, var=StringValue, value=hornpipes
+type=int, var=IntValue, value=71
+fqn:objComp.util.First
+type=String, var=StringValue, value=forlornly
+type=int, var=IntValue, value=96
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=17.29
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=toxic
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=workbooks
+fqn:objComp.util.Second
+type=int, var=IntValue, value=1
+type=double, var=DoubleValue, value=44.0
+fqn:objComp.util.Second
+type=int, var=IntValue, value=69
+type=double, var=DoubleValue, value=52.1
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=35.98
+type=int, var=IntValue, value=15
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=darts
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=71.39
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=25
+type=double, var=DoubleValue, value=69.23
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=widest
+fqn:objComp.util.Second
+type=int, var=IntValue, value=34
+type=double, var=DoubleValue, value=71.95
+fqn:objComp.util.First
+type=String, var=StringValue, value=errol
+type=int, var=IntValue, value=89
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=34.0
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=34.54
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=79.41
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=15.9
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=int, var=IntValue, value=88
+type=double, var=DoubleValue, value=21.18
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=54.79
+type=int, var=IntValue, value=93
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=spittle
+fqn:objComp.util.First
+type=String, var=StringValue, value=latoyas
+type=int, var=IntValue, value=92
+fqn:objComp.util.First
+type=String, var=StringValue, value=byte
+type=int, var=IntValue, value=16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=54.04
+type=int, var=IntValue, value=20
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=47.07
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=sniffs
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=leiden
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=9.9
+fqn:objComp.util.First
+type=String, var=StringValue, value=yours
+type=int, var=IntValue, value=79
+fqn:objComp.util.First
+type=int, var=IntValue, value=55
+type=String, var=StringValue, value=troth
+fqn:objComp.util.First
+type=int, var=IntValue, value=26
+type=String, var=StringValue, value=irredeemable
+fqn:objComp.util.Second
+type=int, var=IntValue, value=36
+type=double, var=DoubleValue, value=44.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=93.5
+fqn:objComp.util.First
+type=String, var=StringValue, value=message
+type=int, var=IntValue, value=2
+fqn:objComp.util.First
+type=int, var=IntValue, value=92
+type=String, var=StringValue, value=decimals
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=83.74
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=int, var=IntValue, value=49
+type=double, var=DoubleValue, value=11.92
+fqn:objComp.util.Second
+type=int, var=IntValue, value=1
+type=double, var=DoubleValue, value=26.99
+fqn:objComp.util.First
+type=String, var=StringValue, value=potentates
+type=int, var=IntValue, value=67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=35
+type=double, var=DoubleValue, value=45.73
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.74
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=66
+type=double, var=DoubleValue, value=18.74
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=30.4
+type=int, var=IntValue, value=15
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.94
+type=int, var=IntValue, value=85
+fqn:objComp.util.Second
+type=int, var=IntValue, value=70
+type=double, var=DoubleValue, value=6.16
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=liberator
+fqn:objComp.util.First
+type=String, var=StringValue, value=harrietts
+type=int, var=IntValue, value=48
+fqn:objComp.util.Second
+type=int, var=IntValue, value=8
+type=double, var=DoubleValue, value=24.21
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=pillorys
+fqn:objComp.util.Second
+type=int, var=IntValue, value=69
+type=double, var=DoubleValue, value=48.31
+fqn:objComp.util.Second
+type=int, var=IntValue, value=10
+type=double, var=DoubleValue, value=54.2
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=59.36
+type=int, var=IntValue, value=99
+fqn:objComp.util.First
+type=int, var=IntValue, value=67
+type=String, var=StringValue, value=crystallizing
+fqn:objComp.util.Second
+type=int, var=IntValue, value=79
+type=double, var=DoubleValue, value=78.48
+fqn:objComp.util.First
+type=int, var=IntValue, value=48
+type=String, var=StringValue, value=deidres
+fqn:objComp.util.Second
+type=int, var=IntValue, value=30
+type=double, var=DoubleValue, value=91.65
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.36
+type=int, var=IntValue, value=77
+fqn:objComp.util.First
+type=String, var=StringValue, value=fraudulences
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=int, var=IntValue, value=17
+type=String, var=StringValue, value=levered
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=biking
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=43.38
+type=int, var=IntValue, value=56
+fqn:objComp.util.First
+type=int, var=IntValue, value=44
+type=String, var=StringValue, value=shekels
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=29.15
+type=int, var=IntValue, value=57
+fqn:objComp.util.First
+type=int, var=IntValue, value=39
+type=String, var=StringValue, value=agency
+fqn:objComp.util.Second
+type=int, var=IntValue, value=32
+type=double, var=DoubleValue, value=51.69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=28.29
+fqn:objComp.util.First
+type=String, var=StringValue, value=lovecraft
+type=int, var=IntValue, value=60
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=8.75
+type=int, var=IntValue, value=43
+fqn:objComp.util.First
+type=String, var=StringValue, value=synagogs
+type=int, var=IntValue, value=81
+fqn:objComp.util.First
+type=int, var=IntValue, value=69
+type=String, var=StringValue, value=poisonously
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=antitrust
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=49.35
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=87.27
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=55.19
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=65
+type=double, var=DoubleValue, value=9.51
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=77.91
+type=int, var=IntValue, value=97
+fqn:objComp.util.First
+type=String, var=StringValue, value=pailsful
+type=int, var=IntValue, value=30
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=inexperienced
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.51
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=int, var=IntValue, value=84
+type=double, var=DoubleValue, value=71.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=31
+type=double, var=DoubleValue, value=7.3
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=spokespersons
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=57.67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=16.67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=49
+type=double, var=DoubleValue, value=7.21
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.17
+type=int, var=IntValue, value=33
+fqn:objComp.util.First
+type=int, var=IntValue, value=73
+type=String, var=StringValue, value=spryest
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=3.76
+type=int, var=IntValue, value=27
+fqn:objComp.util.First
+type=String, var=StringValue, value=misguiding
+type=int, var=IntValue, value=38
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=quitters
+fqn:objComp.util.First
+type=String, var=StringValue, value=alans
+type=int, var=IntValue, value=75
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.96
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=97.76
+type=int, var=IntValue, value=63
+fqn:objComp.util.First
+type=int, var=IntValue, value=90
+type=String, var=StringValue, value=deflect
+fqn:objComp.util.First
+type=int, var=IntValue, value=88
+type=String, var=StringValue, value=leprechauns
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=30.6
+fqn:objComp.util.First
+type=int, var=IntValue, value=32
+type=String, var=StringValue, value=ethiopias
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.93
+type=int, var=IntValue, value=87
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=88.73
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=forbade
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=25.78
+fqn:objComp.util.First
+type=int, var=IntValue, value=5
+type=String, var=StringValue, value=unalterable
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=60.78
+type=int, var=IntValue, value=6
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=77.04
+type=int, var=IntValue, value=19
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.92
+type=int, var=IntValue, value=70
+fqn:objComp.util.First
+type=int, var=IntValue, value=33
+type=String, var=StringValue, value=edifice
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=91.29
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=24
+type=String, var=StringValue, value=inordinately
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=4.83
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=tessa
+fqn:objComp.util.First
+type=int, var=IntValue, value=65
+type=String, var=StringValue, value=hypertension
+fqn:objComp.util.First
+type=String, var=StringValue, value=invulnerabilitys
+type=int, var=IntValue, value=53
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=30.05
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=48.11
+fqn:objComp.util.First
+type=int, var=IntValue, value=10
+type=String, var=StringValue, value=instrumentalists
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=hostess
+fqn:objComp.util.First
+type=String, var=StringValue, value=theravada
+type=int, var=IntValue, value=10
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=durans
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=17.16
+fqn:objComp.util.First
+type=String, var=StringValue, value=along
+type=int, var=IntValue, value=35
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=mayonnaise
+fqn:objComp.util.First
+type=String, var=StringValue, value=panasonics
+type=int, var=IntValue, value=33
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=96.45
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=37
+type=String, var=StringValue, value=hague
+fqn:objComp.util.First
+type=int, var=IntValue, value=97
+type=String, var=StringValue, value=fusillade
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=deified
+fqn:objComp.util.Second
+type=int, var=IntValue, value=66
+type=double, var=DoubleValue, value=64.11
+fqn:objComp.util.Second
+type=int, var=IntValue, value=45
+type=double, var=DoubleValue, value=27.3
+fqn:objComp.util.First
+type=String, var=StringValue, value=regina
+type=int, var=IntValue, value=61
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=chirping
+fqn:objComp.util.Second
+type=int, var=IntValue, value=33
+type=double, var=DoubleValue, value=45.11
+fqn:objComp.util.First
+type=String, var=StringValue, value=treks
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=90
+type=double, var=DoubleValue, value=74.01
+fqn:objComp.util.First
+type=int, var=IntValue, value=59
+type=String, var=StringValue, value=enumerations
+fqn:objComp.util.Second
+type=int, var=IntValue, value=79
+type=double, var=DoubleValue, value=82.63
+fqn:objComp.util.First
+type=String, var=StringValue, value=mae
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=58
+type=String, var=StringValue, value=baggier
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=bedevilments
+fqn:objComp.util.Second
+type=int, var=IntValue, value=100
+type=double, var=DoubleValue, value=62.82
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=68.31
+type=int, var=IntValue, value=91
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=71.11
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=String, var=StringValue, value=ctesiphon
+type=int, var=IntValue, value=21
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.74
+type=int, var=IntValue, value=29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=22.0
+type=int, var=IntValue, value=49
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=pentecostals
+fqn:objComp.util.First
+type=String, var=StringValue, value=iterated
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=73.98
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=25.87
+fqn:objComp.util.First
+type=String, var=StringValue, value=mollusk
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=53.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=14
+type=String, var=StringValue, value=obsession
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=81.91
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=grips
+type=int, var=IntValue, value=90
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.85
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=81.14
+type=int, var=IntValue, value=7
+fqn:objComp.util.Second
+type=int, var=IntValue, value=35
+type=double, var=DoubleValue, value=42.3
+fqn:objComp.util.First
+type=String, var=StringValue, value=painfuller
+type=int, var=IntValue, value=37
+fqn:objComp.util.First
+type=int, var=IntValue, value=77
+type=String, var=StringValue, value=strangulate
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=74.12
+fqn:objComp.util.First
+type=int, var=IntValue, value=62
+type=String, var=StringValue, value=angles
+fqn:objComp.util.First
+type=String, var=StringValue, value=elsies
+type=int, var=IntValue, value=82
+fqn:objComp.util.First
+type=String, var=StringValue, value=colic
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=52.11
+type=int, var=IntValue, value=19
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=57.88
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=47.23
+type=int, var=IntValue, value=92
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=95.28
+type=int, var=IntValue, value=90
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=hardtack
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.88
+type=int, var=IntValue, value=36
+fqn:objComp.util.First
+type=String, var=StringValue, value=pianist
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=String, var=StringValue, value=goslings
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.64
+type=int, var=IntValue, value=30
+fqn:objComp.util.Second
+type=int, var=IntValue, value=37
+type=double, var=DoubleValue, value=17.68
+fqn:objComp.util.First
+type=int, var=IntValue, value=2
+type=String, var=StringValue, value=staggering
+fqn:objComp.util.First
+type=int, var=IntValue, value=41
+type=String, var=StringValue, value=sambaed
+fqn:objComp.util.Second
+type=int, var=IntValue, value=51
+type=double, var=DoubleValue, value=88.02
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.34
+type=int, var=IntValue, value=50
+fqn:objComp.util.First
+type=String, var=StringValue, value=evidently
+type=int, var=IntValue, value=22
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=2.79
+type=int, var=IntValue, value=24
+fqn:objComp.util.First
+type=String, var=StringValue, value=fighting
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=45.86
+type=int, var=IntValue, value=12
+fqn:objComp.util.First
+type=String, var=StringValue, value=cornstalks
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.73
+type=int, var=IntValue, value=57
+fqn:objComp.util.First
+type=int, var=IntValue, value=35
+type=String, var=StringValue, value=thirteens
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=benchmarks
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=münchhausen
+fqn:objComp.util.First
+type=String, var=StringValue, value=soda
+type=int, var=IntValue, value=48
+fqn:objComp.util.First
+type=String, var=StringValue, value=spermatozoa
+type=int, var=IntValue, value=25
+fqn:objComp.util.First
+type=int, var=IntValue, value=57
+type=String, var=StringValue, value=zeppelins
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=saviors
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=77.83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=83.09
+fqn:objComp.util.Second
+type=int, var=IntValue, value=24
+type=double, var=DoubleValue, value=79.62
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=44.46
+type=int, var=IntValue, value=38
+fqn:objComp.util.First
+type=String, var=StringValue, value=losss
+type=int, var=IntValue, value=45
+fqn:objComp.util.First
+type=String, var=StringValue, value=denunciations
+type=int, var=IntValue, value=100
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=40.16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.72
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=26
+type=String, var=StringValue, value=prior
+fqn:objComp.util.Second
+type=int, var=IntValue, value=82
+type=double, var=DoubleValue, value=78.14
+fqn:objComp.util.Second
+type=int, var=IntValue, value=43
+type=double, var=DoubleValue, value=8.4
+fqn:objComp.util.First
+type=int, var=IntValue, value=13
+type=String, var=StringValue, value=wyeth
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=2.84
+fqn:objComp.util.First
+type=String, var=StringValue, value=decidedly
+type=int, var=IntValue, value=87
+fqn:objComp.util.First
+type=String, var=StringValue, value=ticket
+type=int, var=IntValue, value=5
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=sneaker
+fqn:objComp.util.Second
+type=int, var=IntValue, value=17
+type=double, var=DoubleValue, value=87.58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.6
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=65.43
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=88.52
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=rydberg
+fqn:objComp.util.First
+type=String, var=StringValue, value=predestine
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=28.35
+type=int, var=IntValue, value=51
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=21.28
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=int, var=IntValue, value=37
+type=double, var=DoubleValue, value=39.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=65.8
+fqn:objComp.util.First
+type=int, var=IntValue, value=43
+type=String, var=StringValue, value=mimicking
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.44
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.17
+type=int, var=IntValue, value=79
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.26
+type=int, var=IntValue, value=11
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=42.52
+type=int, var=IntValue, value=61
+fqn:objComp.util.First
+type=String, var=StringValue, value=birthright
+type=int, var=IntValue, value=26
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.2
+type=int, var=IntValue, value=11
+fqn:objComp.util.First
+type=String, var=StringValue, value=capes
+type=int, var=IntValue, value=33
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.22
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=37.79
+type=int, var=IntValue, value=89
+fqn:objComp.util.Second
+type=int, var=IntValue, value=30
+type=double, var=DoubleValue, value=65.61
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=undresss
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=87.31
+type=int, var=IntValue, value=44
+fqn:objComp.util.First
+type=String, var=StringValue, value=crockett
+type=int, var=IntValue, value=45
+fqn:objComp.util.Second
+type=int, var=IntValue, value=39
+type=double, var=DoubleValue, value=95.8
+fqn:objComp.util.First
+type=String, var=StringValue, value=archdeacons
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=shortage
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=String, var=StringValue, value=recurrences
+type=int, var=IntValue, value=8
+fqn:objComp.util.First
+type=String, var=StringValue, value=brinkmanship
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=33
+type=double, var=DoubleValue, value=52.83
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=resplendence
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=50.54
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=60.57
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=28.83
+fqn:objComp.util.First
+type=String, var=StringValue, value=vistula
+type=int, var=IntValue, value=31
+fqn:objComp.util.Second
+type=int, var=IntValue, value=59
+type=double, var=DoubleValue, value=64.07
+fqn:objComp.util.First
+type=String, var=StringValue, value=scantily
+type=int, var=IntValue, value=68
+fqn:objComp.util.First
+type=int, var=IntValue, value=52
+type=String, var=StringValue, value=osteopathy
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=leaden
+fqn:objComp.util.First
+type=String, var=StringValue, value=concurrently
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=lasso
+fqn:objComp.util.First
+type=String, var=StringValue, value=adidas
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=96.27
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=80.61
+type=int, var=IntValue, value=48
+fqn:objComp.util.First
+type=String, var=StringValue, value=teazle
+type=int, var=IntValue, value=38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=79.21
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=82.37
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=swirly
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=corporate
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.5
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=20.16
+fqn:objComp.util.Second
+type=int, var=IntValue, value=46
+type=double, var=DoubleValue, value=78.71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=92
+type=double, var=DoubleValue, value=5.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=tundras
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=39.9
+type=int, var=IntValue, value=42
+fqn:objComp.util.First
+type=String, var=StringValue, value=disfranchise
+type=int, var=IntValue, value=47
+fqn:objComp.util.First
+type=int, var=IntValue, value=63
+type=String, var=StringValue, value=laymans
+fqn:objComp.util.First
+type=String, var=StringValue, value=wrigglers
+type=int, var=IntValue, value=1
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=5.65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=53.14
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=46.67
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=calliope
+fqn:objComp.util.First
+type=String, var=StringValue, value=ungracious
+type=int, var=IntValue, value=67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=62.9
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.1
+type=int, var=IntValue, value=6
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=11.52
+type=int, var=IntValue, value=77
+fqn:objComp.util.First
+type=String, var=StringValue, value=guffaws
+type=int, var=IntValue, value=95
+fqn:objComp.util.First
+type=String, var=StringValue, value=strophe
+type=int, var=IntValue, value=72
+fqn:objComp.util.First
+type=String, var=StringValue, value=farmer
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=41
+type=String, var=StringValue, value=staggers
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=66.96
+type=int, var=IntValue, value=26
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=61.52
+type=int, var=IntValue, value=68
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=6.25
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.71
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=86.25
+type=int, var=IntValue, value=21
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=demigods
+fqn:objComp.util.Second
+type=int, var=IntValue, value=11
+type=double, var=DoubleValue, value=5.22
+fqn:objComp.util.Second
+type=int, var=IntValue, value=59
+type=double, var=DoubleValue, value=32.69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=64.86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=69.15
+type=int, var=IntValue, value=36
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=cursed
+fqn:objComp.util.Second
+type=int, var=IntValue, value=48
+type=double, var=DoubleValue, value=14.6
+fqn:objComp.util.First
+type=int, var=IntValue, value=44
+type=String, var=StringValue, value=mockery
+fqn:objComp.util.Second
+type=int, var=IntValue, value=60
+type=double, var=DoubleValue, value=95.38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=56.53
+type=int, var=IntValue, value=41
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=79.16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=97.89
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=fourteenth
+type=int, var=IntValue, value=24
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.28
+type=int, var=IntValue, value=85
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=wildly
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=42.0
+type=int, var=IntValue, value=73
+fqn:objComp.util.First
+type=String, var=StringValue, value=married
+type=int, var=IntValue, value=91
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=skinned
+fqn:objComp.util.First
+type=String, var=StringValue, value=menopause
+type=int, var=IntValue, value=56
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=27.53
+type=int, var=IntValue, value=64
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=antagonized
+fqn:objComp.util.First
+type=String, var=StringValue, value=captured
+type=int, var=IntValue, value=73
+fqn:objComp.util.First
+type=String, var=StringValue, value=handstands
+type=int, var=IntValue, value=9
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=embittered
+fqn:objComp.util.First
+type=String, var=StringValue, value=flights
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=88.14
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=38
+type=double, var=DoubleValue, value=55.58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=33.31
+type=int, var=IntValue, value=13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=72.81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=85.05
+type=int, var=IntValue, value=53
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.15
+type=int, var=IntValue, value=96
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.28
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=22
+type=String, var=StringValue, value=whipping
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=63.79
+type=int, var=IntValue, value=95
+fqn:objComp.util.First
+type=String, var=StringValue, value=snide
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=46.76
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=41.06
+type=int, var=IntValue, value=88
+fqn:objComp.util.First
+type=int, var=IntValue, value=82
+type=String, var=StringValue, value=mariners
+fqn:objComp.util.Second
+type=int, var=IntValue, value=22
+type=double, var=DoubleValue, value=14.38
+fqn:objComp.util.First
+type=int, var=IntValue, value=57
+type=String, var=StringValue, value=caspar
+fqn:objComp.util.First
+type=String, var=StringValue, value=bondsmans
+type=int, var=IntValue, value=66
+fqn:objComp.util.First
+type=String, var=StringValue, value=copernicuss
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=int, var=IntValue, value=27
+type=String, var=StringValue, value=extremes
+fqn:objComp.util.First
+type=int, var=IntValue, value=87
+type=String, var=StringValue, value=franchises
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=5.06
+type=int, var=IntValue, value=70
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=behalfs
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=52.83
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.15
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=16.2
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.52
+type=int, var=IntValue, value=4
+fqn:objComp.util.First
+type=int, var=IntValue, value=32
+type=String, var=StringValue, value=overhung
+fqn:objComp.util.First
+type=int, var=IntValue, value=83
+type=String, var=StringValue, value=bashed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=9.68
+type=int, var=IntValue, value=45
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=magnifiers
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=froths
+fqn:objComp.util.First
+type=int, var=IntValue, value=2
+type=String, var=StringValue, value=tadzhikistans
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.38
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=int, var=IntValue, value=22
+type=double, var=DoubleValue, value=71.33
+fqn:objComp.util.First
+type=int, var=IntValue, value=19
+type=String, var=StringValue, value=digressive
+fqn:objComp.util.First
+type=String, var=StringValue, value=index
+type=int, var=IntValue, value=93
+fqn:objComp.util.First
+type=String, var=StringValue, value=desolate
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=String, var=StringValue, value=jackhammer
+type=int, var=IntValue, value=24
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=attentive
+fqn:objComp.util.First
+type=int, var=IntValue, value=40
+type=String, var=StringValue, value=defrosters
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.46
+type=int, var=IntValue, value=71
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=verbals
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=lorena
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=salesmen
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.33
+type=int, var=IntValue, value=41
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=35.05
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=89.97
+fqn:objComp.util.Second
+type=int, var=IntValue, value=53
+type=double, var=DoubleValue, value=7.81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=13.93
+type=int, var=IntValue, value=62
+fqn:objComp.util.First
+type=String, var=StringValue, value=dared
+type=int, var=IntValue, value=24
+fqn:objComp.util.Second
+type=int, var=IntValue, value=10
+type=double, var=DoubleValue, value=99.66
+fqn:objComp.util.First
+type=String, var=StringValue, value=verge
+type=int, var=IntValue, value=2
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=72.64
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=backslappers
+fqn:objComp.util.Second
+type=int, var=IntValue, value=25
+type=double, var=DoubleValue, value=93.87
+fqn:objComp.util.Second
+type=int, var=IntValue, value=8
+type=double, var=DoubleValue, value=30.97
+fqn:objComp.util.Second
+type=int, var=IntValue, value=90
+type=double, var=DoubleValue, value=56.08
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=48.01
+type=int, var=IntValue, value=30
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=eruptions
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=38.68
+type=int, var=IntValue, value=83
+fqn:objComp.util.First
+type=String, var=StringValue, value=pop
+type=int, var=IntValue, value=13
+fqn:objComp.util.First
+type=String, var=StringValue, value=supervenes
+type=int, var=IntValue, value=46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=50
+type=double, var=DoubleValue, value=90.53
+fqn:objComp.util.First
+type=String, var=StringValue, value=pious
+type=int, var=IntValue, value=52
+fqn:objComp.util.First
+type=int, var=IntValue, value=63
+type=String, var=StringValue, value=rumoring
+fqn:objComp.util.First
+type=String, var=StringValue, value=ireland
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=83
+type=String, var=StringValue, value=drag
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=officemaxs
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=62.51
+type=int, var=IntValue, value=60
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=70.21
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=8.58
+type=int, var=IntValue, value=20
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=68.88
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=98
+type=double, var=DoubleValue, value=8.58
+fqn:objComp.util.Second
+type=int, var=IntValue, value=36
+type=double, var=DoubleValue, value=42.69
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=6.29
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=12
+type=String, var=StringValue, value=bushs
+fqn:objComp.util.Second
+type=int, var=IntValue, value=94
+type=double, var=DoubleValue, value=60.29
+fqn:objComp.util.First
+type=String, var=StringValue, value=charmin
+type=int, var=IntValue, value=18
+fqn:objComp.util.First
+type=String, var=StringValue, value=julys
+type=int, var=IntValue, value=29
+fqn:objComp.util.First
+type=String, var=StringValue, value=admixtures
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=21.28
+fqn:objComp.util.First
+type=String, var=StringValue, value=mephistopheles
+type=int, var=IntValue, value=67
+fqn:objComp.util.First
+type=String, var=StringValue, value=stretch
+type=int, var=IntValue, value=50
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=13.84
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=int, var=IntValue, value=16
+type=double, var=DoubleValue, value=18.64
+fqn:objComp.util.First
+type=String, var=StringValue, value=grizzled
+type=int, var=IntValue, value=99
+fqn:objComp.util.Second
+type=int, var=IntValue, value=97
+type=double, var=DoubleValue, value=74.53
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=45.78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.77
+type=int, var=IntValue, value=15
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=54.84
+fqn:objComp.util.Second
+type=int, var=IntValue, value=32
+type=double, var=DoubleValue, value=75.44
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.38
+type=int, var=IntValue, value=81
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=57.32
+type=int, var=IntValue, value=13
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=bramble
+fqn:objComp.util.Second
+type=int, var=IntValue, value=75
+type=double, var=DoubleValue, value=39.78
+fqn:objComp.util.Second
+type=int, var=IntValue, value=24
+type=double, var=DoubleValue, value=89.99
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.0
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=99.79
+type=int, var=IntValue, value=51
+fqn:objComp.util.First
+type=String, var=StringValue, value=reunion
+type=int, var=IntValue, value=46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=12
+type=double, var=DoubleValue, value=76.29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=37.36
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=int, var=IntValue, value=76
+type=String, var=StringValue, value=smatterings
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=25.39
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=55.07
+type=int, var=IntValue, value=49
+fqn:objComp.util.First
+type=int, var=IntValue, value=48
+type=String, var=StringValue, value=picketed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=21.12
+type=int, var=IntValue, value=12
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=jibbed
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=14.75
+type=int, var=IntValue, value=52
+fqn:objComp.util.First
+type=String, var=StringValue, value=foulness
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=int, var=IntValue, value=24
+type=String, var=StringValue, value=antechambers
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=46.99
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=int, var=IntValue, value=1
+type=String, var=StringValue, value=itchy
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=48.5
+type=int, var=IntValue, value=68
+fqn:objComp.util.Second
+type=int, var=IntValue, value=47
+type=double, var=DoubleValue, value=22.79
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=17.99
+type=int, var=IntValue, value=68
+fqn:objComp.util.First
+type=int, var=IntValue, value=77
+type=String, var=StringValue, value=laundresss
+fqn:objComp.util.First
+type=String, var=StringValue, value=militate
+type=int, var=IntValue, value=40
+fqn:objComp.util.First
+type=int, var=IntValue, value=6
+type=String, var=StringValue, value=sleepyheads
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=pantheists
+fqn:objComp.util.First
+type=String, var=StringValue, value=obdurate
+type=int, var=IntValue, value=80
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=toffies
+fqn:objComp.util.Second
+type=int, var=IntValue, value=13
+type=double, var=DoubleValue, value=27.45
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=unsupportable
+fqn:objComp.util.First
+type=int, var=IntValue, value=22
+type=String, var=StringValue, value=cutlass
+fqn:objComp.util.First
+type=int, var=IntValue, value=20
+type=String, var=StringValue, value=deletes
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=86.73
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=bootless
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=56.22
+type=int, var=IntValue, value=23
+fqn:objComp.util.First
+type=String, var=StringValue, value=vandals
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=oakland
+fqn:objComp.util.First
+type=String, var=StringValue, value=keokuk
+type=int, var=IntValue, value=82
+fqn:objComp.util.First
+type=int, var=IntValue, value=25
+type=String, var=StringValue, value=overwhelms
+fqn:objComp.util.Second
+type=int, var=IntValue, value=89
+type=double, var=DoubleValue, value=41.48
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=60.58
+fqn:objComp.util.First
+type=int, var=IntValue, value=8
+type=String, var=StringValue, value=taprooms
+fqn:objComp.util.Second
+type=int, var=IntValue, value=92
+type=double, var=DoubleValue, value=41.57
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.59
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=57.21
+type=int, var=IntValue, value=38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=36.69
+type=int, var=IntValue, value=37
+fqn:objComp.util.First
+type=int, var=IntValue, value=47
+type=String, var=StringValue, value=keatons
+fqn:objComp.util.First
+type=String, var=StringValue, value=notebook
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=76.89
+fqn:objComp.util.First
+type=String, var=StringValue, value=armageddons
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=int, var=IntValue, value=31
+type=double, var=DoubleValue, value=23.33
+fqn:objComp.util.First
+type=String, var=StringValue, value=estrada
+type=int, var=IntValue, value=6
+fqn:objComp.util.First
+type=String, var=StringValue, value=phrase
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=weizmann
+fqn:objComp.util.First
+type=String, var=StringValue, value=cognac
+type=int, var=IntValue, value=22
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=boys
+fqn:objComp.util.Second
+type=int, var=IntValue, value=85
+type=double, var=DoubleValue, value=99.46
+fqn:objComp.util.Second
+type=int, var=IntValue, value=46
+type=double, var=DoubleValue, value=69.49
+fqn:objComp.util.First
+type=int, var=IntValue, value=55
+type=String, var=StringValue, value=blarneyed
+fqn:objComp.util.First
+type=String, var=StringValue, value=corot
+type=int, var=IntValue, value=86
+fqn:objComp.util.First
+type=int, var=IntValue, value=95
+type=String, var=StringValue, value=savage
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.1
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.18
+type=int, var=IntValue, value=86
+fqn:objComp.util.First
+type=int, var=IntValue, value=70
+type=String, var=StringValue, value=bum
+fqn:objComp.util.First
+type=int, var=IntValue, value=9
+type=String, var=StringValue, value=tarpons
+fqn:objComp.util.First
+type=String, var=StringValue, value=axs
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=works
+fqn:objComp.util.First
+type=String, var=StringValue, value=stalactites
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.97
+type=int, var=IntValue, value=76
+fqn:objComp.util.First
+type=String, var=StringValue, value=kleenex
+type=int, var=IntValue, value=91
+fqn:objComp.util.First
+type=String, var=StringValue, value=arenas
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=85
+type=double, var=DoubleValue, value=67.42
+fqn:objComp.util.Second
+type=int, var=IntValue, value=96
+type=double, var=DoubleValue, value=22.11
+fqn:objComp.util.Second
+type=int, var=IntValue, value=17
+type=double, var=DoubleValue, value=52.46
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=motivator
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=84.3
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=12
+type=double, var=DoubleValue, value=54.5
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=75.95
+type=int, var=IntValue, value=87
+fqn:objComp.util.First
+type=String, var=StringValue, value=terminate
+type=int, var=IntValue, value=30
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=75.69
+type=int, var=IntValue, value=42
+fqn:objComp.util.First
+type=String, var=StringValue, value=soliloquize
+type=int, var=IntValue, value=7
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=20.91
+type=int, var=IntValue, value=23
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=74.1
+type=int, var=IntValue, value=29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=74.8
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=99
+type=double, var=DoubleValue, value=82.05
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=11.13
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=38.09
+type=int, var=IntValue, value=58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=26.49
+type=int, var=IntValue, value=3
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=chickweeds
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=29.59
+type=int, var=IntValue, value=93
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.59
+type=int, var=IntValue, value=3
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=lugers
+fqn:objComp.util.First
+type=String, var=StringValue, value=ladybirds
+type=int, var=IntValue, value=17
+fqn:objComp.util.First
+type=String, var=StringValue, value=inclement
+type=int, var=IntValue, value=82
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=49.81
+type=int, var=IntValue, value=14
+fqn:objComp.util.First
+type=String, var=StringValue, value=practitioners
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=7
+type=double, var=DoubleValue, value=92.43
+fqn:objComp.util.First
+type=int, var=IntValue, value=98
+type=String, var=StringValue, value=inebriation
+fqn:objComp.util.Second
+type=int, var=IntValue, value=21
+type=double, var=DoubleValue, value=95.73
+fqn:objComp.util.First
+type=String, var=StringValue, value=maladjustments
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=36.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=76
+type=String, var=StringValue, value=bested
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=52.62
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=String, var=StringValue, value=hornpipes
+type=int, var=IntValue, value=71
+fqn:objComp.util.First
+type=String, var=StringValue, value=forlornly
+type=int, var=IntValue, value=96
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=17.29
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=toxic
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=workbooks
+fqn:objComp.util.Second
+type=int, var=IntValue, value=1
+type=double, var=DoubleValue, value=44.0
+fqn:objComp.util.Second
+type=int, var=IntValue, value=69
+type=double, var=DoubleValue, value=52.1
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=35.98
+type=int, var=IntValue, value=15
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=darts
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=71.39
+type=int, var=IntValue, value=69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=25
+type=double, var=DoubleValue, value=69.23
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=widest
+fqn:objComp.util.Second
+type=int, var=IntValue, value=34
+type=double, var=DoubleValue, value=71.95
+fqn:objComp.util.First
+type=String, var=StringValue, value=errol
+type=int, var=IntValue, value=89
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=34.0
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=34.54
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=79.41
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=15.9
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=int, var=IntValue, value=88
+type=double, var=DoubleValue, value=21.18
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=54.79
+type=int, var=IntValue, value=93
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=spittle
+fqn:objComp.util.First
+type=String, var=StringValue, value=latoyas
+type=int, var=IntValue, value=92
+fqn:objComp.util.First
+type=String, var=StringValue, value=byte
+type=int, var=IntValue, value=16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=54.04
+type=int, var=IntValue, value=20
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=47.07
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=sniffs
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=leiden
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=9.9
+fqn:objComp.util.First
+type=String, var=StringValue, value=yours
+type=int, var=IntValue, value=79
+fqn:objComp.util.First
+type=int, var=IntValue, value=55
+type=String, var=StringValue, value=troth
+fqn:objComp.util.First
+type=int, var=IntValue, value=26
+type=String, var=StringValue, value=irredeemable
+fqn:objComp.util.Second
+type=int, var=IntValue, value=36
+type=double, var=DoubleValue, value=44.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=93.5
+fqn:objComp.util.First
+type=String, var=StringValue, value=message
+type=int, var=IntValue, value=2
+fqn:objComp.util.First
+type=int, var=IntValue, value=92
+type=String, var=StringValue, value=decimals
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=83.74
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=int, var=IntValue, value=49
+type=double, var=DoubleValue, value=11.92
+fqn:objComp.util.Second
+type=int, var=IntValue, value=1
+type=double, var=DoubleValue, value=26.99
+fqn:objComp.util.First
+type=String, var=StringValue, value=potentates
+type=int, var=IntValue, value=67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=35
+type=double, var=DoubleValue, value=45.73
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.74
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=66
+type=double, var=DoubleValue, value=18.74
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=30.4
+type=int, var=IntValue, value=15
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.94
+type=int, var=IntValue, value=85
+fqn:objComp.util.Second
+type=int, var=IntValue, value=70
+type=double, var=DoubleValue, value=6.16
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=liberator
+fqn:objComp.util.First
+type=String, var=StringValue, value=harrietts
+type=int, var=IntValue, value=48
+fqn:objComp.util.Second
+type=int, var=IntValue, value=8
+type=double, var=DoubleValue, value=24.21
+fqn:objComp.util.First
+type=int, var=IntValue, value=50
+type=String, var=StringValue, value=pillorys
+fqn:objComp.util.Second
+type=int, var=IntValue, value=69
+type=double, var=DoubleValue, value=48.31
+fqn:objComp.util.Second
+type=int, var=IntValue, value=10
+type=double, var=DoubleValue, value=54.2
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=59.36
+type=int, var=IntValue, value=99
+fqn:objComp.util.First
+type=int, var=IntValue, value=67
+type=String, var=StringValue, value=crystallizing
+fqn:objComp.util.Second
+type=int, var=IntValue, value=79
+type=double, var=DoubleValue, value=78.48
+fqn:objComp.util.First
+type=int, var=IntValue, value=48
+type=String, var=StringValue, value=deidres
+fqn:objComp.util.Second
+type=int, var=IntValue, value=30
+type=double, var=DoubleValue, value=91.65
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=92.36
+type=int, var=IntValue, value=77
+fqn:objComp.util.First
+type=String, var=StringValue, value=fraudulences
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=int, var=IntValue, value=17
+type=String, var=StringValue, value=levered
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=biking
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=43.38
+type=int, var=IntValue, value=56
+fqn:objComp.util.First
+type=int, var=IntValue, value=44
+type=String, var=StringValue, value=shekels
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=29.15
+type=int, var=IntValue, value=57
+fqn:objComp.util.First
+type=int, var=IntValue, value=39
+type=String, var=StringValue, value=agency
+fqn:objComp.util.Second
+type=int, var=IntValue, value=32
+type=double, var=DoubleValue, value=51.69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=28.29
+fqn:objComp.util.First
+type=String, var=StringValue, value=lovecraft
+type=int, var=IntValue, value=60
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=8.75
+type=int, var=IntValue, value=43
+fqn:objComp.util.First
+type=String, var=StringValue, value=synagogs
+type=int, var=IntValue, value=81
+fqn:objComp.util.First
+type=int, var=IntValue, value=69
+type=String, var=StringValue, value=poisonously
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=antitrust
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=49.35
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=87.27
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=55.19
+type=int, var=IntValue, value=65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=65
+type=double, var=DoubleValue, value=9.51
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=77.91
+type=int, var=IntValue, value=97
+fqn:objComp.util.First
+type=String, var=StringValue, value=pailsful
+type=int, var=IntValue, value=30
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=inexperienced
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.51
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=int, var=IntValue, value=84
+type=double, var=DoubleValue, value=71.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=31
+type=double, var=DoubleValue, value=7.3
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=spokespersons
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=57.67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=73
+type=double, var=DoubleValue, value=16.67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=49
+type=double, var=DoubleValue, value=7.21
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.17
+type=int, var=IntValue, value=33
+fqn:objComp.util.First
+type=int, var=IntValue, value=73
+type=String, var=StringValue, value=spryest
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=3.76
+type=int, var=IntValue, value=27
+fqn:objComp.util.First
+type=String, var=StringValue, value=misguiding
+type=int, var=IntValue, value=38
+fqn:objComp.util.First
+type=int, var=IntValue, value=64
+type=String, var=StringValue, value=quitters
+fqn:objComp.util.First
+type=String, var=StringValue, value=alans
+type=int, var=IntValue, value=75
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.96
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=97.76
+type=int, var=IntValue, value=63
+fqn:objComp.util.First
+type=int, var=IntValue, value=90
+type=String, var=StringValue, value=deflect
+fqn:objComp.util.First
+type=int, var=IntValue, value=88
+type=String, var=StringValue, value=leprechauns
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=30.6
+fqn:objComp.util.First
+type=int, var=IntValue, value=32
+type=String, var=StringValue, value=ethiopias
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.93
+type=int, var=IntValue, value=87
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=88.73
+fqn:objComp.util.First
+type=int, var=IntValue, value=51
+type=String, var=StringValue, value=forbade
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=25.78
+fqn:objComp.util.First
+type=int, var=IntValue, value=5
+type=String, var=StringValue, value=unalterable
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=60.78
+type=int, var=IntValue, value=6
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=77.04
+type=int, var=IntValue, value=19
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.92
+type=int, var=IntValue, value=70
+fqn:objComp.util.First
+type=int, var=IntValue, value=33
+type=String, var=StringValue, value=edifice
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=91.29
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=24
+type=String, var=StringValue, value=inordinately
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=4.83
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=tessa
+fqn:objComp.util.First
+type=int, var=IntValue, value=65
+type=String, var=StringValue, value=hypertension
+fqn:objComp.util.First
+type=String, var=StringValue, value=invulnerabilitys
+type=int, var=IntValue, value=53
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=30.05
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=48.11
+fqn:objComp.util.First
+type=int, var=IntValue, value=10
+type=String, var=StringValue, value=instrumentalists
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=hostess
+fqn:objComp.util.First
+type=String, var=StringValue, value=theravada
+type=int, var=IntValue, value=10
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=durans
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=17.16
+fqn:objComp.util.First
+type=String, var=StringValue, value=along
+type=int, var=IntValue, value=35
+fqn:objComp.util.First
+type=int, var=IntValue, value=91
+type=String, var=StringValue, value=mayonnaise
+fqn:objComp.util.First
+type=String, var=StringValue, value=panasonics
+type=int, var=IntValue, value=33
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=96.45
+type=int, var=IntValue, value=7
+fqn:objComp.util.First
+type=int, var=IntValue, value=37
+type=String, var=StringValue, value=hague
+fqn:objComp.util.First
+type=int, var=IntValue, value=97
+type=String, var=StringValue, value=fusillade
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=deified
+fqn:objComp.util.Second
+type=int, var=IntValue, value=66
+type=double, var=DoubleValue, value=64.11
+fqn:objComp.util.Second
+type=int, var=IntValue, value=45
+type=double, var=DoubleValue, value=27.3
+fqn:objComp.util.First
+type=String, var=StringValue, value=regina
+type=int, var=IntValue, value=61
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=chirping
+fqn:objComp.util.Second
+type=int, var=IntValue, value=33
+type=double, var=DoubleValue, value=45.11
+fqn:objComp.util.First
+type=String, var=StringValue, value=treks
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=90
+type=double, var=DoubleValue, value=74.01
+fqn:objComp.util.First
+type=int, var=IntValue, value=59
+type=String, var=StringValue, value=enumerations
+fqn:objComp.util.Second
+type=int, var=IntValue, value=79
+type=double, var=DoubleValue, value=82.63
+fqn:objComp.util.First
+type=String, var=StringValue, value=mae
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=58
+type=String, var=StringValue, value=baggier
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=bedevilments
+fqn:objComp.util.Second
+type=int, var=IntValue, value=100
+type=double, var=DoubleValue, value=62.82
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=68.31
+type=int, var=IntValue, value=91
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=71.11
+type=int, var=IntValue, value=54
+fqn:objComp.util.First
+type=String, var=StringValue, value=ctesiphon
+type=int, var=IntValue, value=21
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.74
+type=int, var=IntValue, value=29
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=22.0
+type=int, var=IntValue, value=49
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=pentecostals
+fqn:objComp.util.First
+type=String, var=StringValue, value=iterated
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=73.98
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=25.87
+fqn:objComp.util.First
+type=String, var=StringValue, value=mollusk
+type=int, var=IntValue, value=71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=2
+type=double, var=DoubleValue, value=53.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=14
+type=String, var=StringValue, value=obsession
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=81.91
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=grips
+type=int, var=IntValue, value=90
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=67.85
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=81.14
+type=int, var=IntValue, value=7
+fqn:objComp.util.Second
+type=int, var=IntValue, value=35
+type=double, var=DoubleValue, value=42.3
+fqn:objComp.util.First
+type=String, var=StringValue, value=painfuller
+type=int, var=IntValue, value=37
+fqn:objComp.util.First
+type=int, var=IntValue, value=77
+type=String, var=StringValue, value=strangulate
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=74.12
+fqn:objComp.util.First
+type=int, var=IntValue, value=62
+type=String, var=StringValue, value=angles
+fqn:objComp.util.First
+type=String, var=StringValue, value=elsies
+type=int, var=IntValue, value=82
+fqn:objComp.util.First
+type=String, var=StringValue, value=colic
+type=int, var=IntValue, value=12
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=52.11
+type=int, var=IntValue, value=19
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=57.88
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=47.23
+type=int, var=IntValue, value=92
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=95.28
+type=int, var=IntValue, value=90
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=hardtack
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.88
+type=int, var=IntValue, value=36
+fqn:objComp.util.First
+type=String, var=StringValue, value=pianist
+type=int, var=IntValue, value=75
+fqn:objComp.util.First
+type=String, var=StringValue, value=goslings
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.64
+type=int, var=IntValue, value=30
+fqn:objComp.util.Second
+type=int, var=IntValue, value=37
+type=double, var=DoubleValue, value=17.68
+fqn:objComp.util.First
+type=int, var=IntValue, value=2
+type=String, var=StringValue, value=staggering
+fqn:objComp.util.First
+type=int, var=IntValue, value=41
+type=String, var=StringValue, value=sambaed
+fqn:objComp.util.Second
+type=int, var=IntValue, value=51
+type=double, var=DoubleValue, value=88.02
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.34
+type=int, var=IntValue, value=50
+fqn:objComp.util.First
+type=String, var=StringValue, value=evidently
+type=int, var=IntValue, value=22
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=2.79
+type=int, var=IntValue, value=24
+fqn:objComp.util.First
+type=String, var=StringValue, value=fighting
+type=int, var=IntValue, value=5
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=45.86
+type=int, var=IntValue, value=12
+fqn:objComp.util.First
+type=String, var=StringValue, value=cornstalks
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.73
+type=int, var=IntValue, value=57
+fqn:objComp.util.First
+type=int, var=IntValue, value=35
+type=String, var=StringValue, value=thirteens
+fqn:objComp.util.First
+type=int, var=IntValue, value=56
+type=String, var=StringValue, value=benchmarks
+fqn:objComp.util.First
+type=int, var=IntValue, value=38
+type=String, var=StringValue, value=münchhausen
+fqn:objComp.util.First
+type=String, var=StringValue, value=soda
+type=int, var=IntValue, value=48
+fqn:objComp.util.First
+type=String, var=StringValue, value=spermatozoa
+type=int, var=IntValue, value=25
+fqn:objComp.util.First
+type=int, var=IntValue, value=57
+type=String, var=StringValue, value=zeppelins
+fqn:objComp.util.First
+type=int, var=IntValue, value=42
+type=String, var=StringValue, value=saviors
+fqn:objComp.util.Second
+type=int, var=IntValue, value=93
+type=double, var=DoubleValue, value=77.83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=62
+type=double, var=DoubleValue, value=83.09
+fqn:objComp.util.Second
+type=int, var=IntValue, value=24
+type=double, var=DoubleValue, value=79.62
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=44.46
+type=int, var=IntValue, value=38
+fqn:objComp.util.First
+type=String, var=StringValue, value=losss
+type=int, var=IntValue, value=45
+fqn:objComp.util.First
+type=String, var=StringValue, value=denunciations
+type=int, var=IntValue, value=100
+fqn:objComp.util.Second
+type=int, var=IntValue, value=20
+type=double, var=DoubleValue, value=40.16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=40.72
+type=int, var=IntValue, value=84
+fqn:objComp.util.First
+type=int, var=IntValue, value=26
+type=String, var=StringValue, value=prior
+fqn:objComp.util.Second
+type=int, var=IntValue, value=82
+type=double, var=DoubleValue, value=78.14
+fqn:objComp.util.Second
+type=int, var=IntValue, value=43
+type=double, var=DoubleValue, value=8.4
+fqn:objComp.util.First
+type=int, var=IntValue, value=13
+type=String, var=StringValue, value=wyeth
+fqn:objComp.util.Second
+type=int, var=IntValue, value=52
+type=double, var=DoubleValue, value=2.84
+fqn:objComp.util.First
+type=String, var=StringValue, value=decidedly
+type=int, var=IntValue, value=87
+fqn:objComp.util.First
+type=String, var=StringValue, value=ticket
+type=int, var=IntValue, value=5
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=sneaker
+fqn:objComp.util.Second
+type=int, var=IntValue, value=17
+type=double, var=DoubleValue, value=87.58
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=24.6
+type=int, var=IntValue, value=78
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=65.43
+type=int, var=IntValue, value=66
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=88.52
+fqn:objComp.util.First
+type=int, var=IntValue, value=23
+type=String, var=StringValue, value=rydberg
+fqn:objComp.util.First
+type=String, var=StringValue, value=predestine
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=28.35
+type=int, var=IntValue, value=51
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=21.28
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=int, var=IntValue, value=37
+type=double, var=DoubleValue, value=39.13
+fqn:objComp.util.Second
+type=int, var=IntValue, value=56
+type=double, var=DoubleValue, value=65.8
+fqn:objComp.util.First
+type=int, var=IntValue, value=43
+type=String, var=StringValue, value=mimicking
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.44
+type=int, var=IntValue, value=4
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=50.17
+type=int, var=IntValue, value=79
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.26
+type=int, var=IntValue, value=11
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=42.52
+type=int, var=IntValue, value=61
+fqn:objComp.util.First
+type=String, var=StringValue, value=birthright
+type=int, var=IntValue, value=26
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.2
+type=int, var=IntValue, value=11
+fqn:objComp.util.First
+type=String, var=StringValue, value=capes
+type=int, var=IntValue, value=33
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=93.22
+type=int, var=IntValue, value=43
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=37.79
+type=int, var=IntValue, value=89
+fqn:objComp.util.Second
+type=int, var=IntValue, value=30
+type=double, var=DoubleValue, value=65.61
+fqn:objComp.util.First
+type=int, var=IntValue, value=71
+type=String, var=StringValue, value=undresss
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=87.31
+type=int, var=IntValue, value=44
+fqn:objComp.util.First
+type=String, var=StringValue, value=crockett
+type=int, var=IntValue, value=45
+fqn:objComp.util.Second
+type=int, var=IntValue, value=39
+type=double, var=DoubleValue, value=95.8
+fqn:objComp.util.First
+type=String, var=StringValue, value=archdeacons
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=shortage
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=String, var=StringValue, value=recurrences
+type=int, var=IntValue, value=8
+fqn:objComp.util.First
+type=String, var=StringValue, value=brinkmanship
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=int, var=IntValue, value=33
+type=double, var=DoubleValue, value=52.83
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=resplendence
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=50.54
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=60.57
+type=int, var=IntValue, value=17
+fqn:objComp.util.Second
+type=int, var=IntValue, value=55
+type=double, var=DoubleValue, value=28.83
+fqn:objComp.util.First
+type=String, var=StringValue, value=vistula
+type=int, var=IntValue, value=31
+fqn:objComp.util.Second
+type=int, var=IntValue, value=59
+type=double, var=DoubleValue, value=64.07
+fqn:objComp.util.First
+type=String, var=StringValue, value=scantily
+type=int, var=IntValue, value=68
+fqn:objComp.util.First
+type=int, var=IntValue, value=52
+type=String, var=StringValue, value=osteopathy
+fqn:objComp.util.First
+type=int, var=IntValue, value=86
+type=String, var=StringValue, value=leaden
+fqn:objComp.util.First
+type=String, var=StringValue, value=concurrently
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=int, var=IntValue, value=49
+type=String, var=StringValue, value=lasso
+fqn:objComp.util.First
+type=String, var=StringValue, value=adidas
+type=int, var=IntValue, value=86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=96.27
+type=int, var=IntValue, value=72
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=80.61
+type=int, var=IntValue, value=48
+fqn:objComp.util.First
+type=String, var=StringValue, value=teazle
+type=int, var=IntValue, value=38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=79.21
+type=int, var=IntValue, value=28
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=82.37
+type=int, var=IntValue, value=41
+fqn:objComp.util.First
+type=int, var=IntValue, value=85
+type=String, var=StringValue, value=swirly
+fqn:objComp.util.First
+type=int, var=IntValue, value=68
+type=String, var=StringValue, value=corporate
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=31.5
+type=int, var=IntValue, value=61
+fqn:objComp.util.Second
+type=int, var=IntValue, value=57
+type=double, var=DoubleValue, value=20.16
+fqn:objComp.util.Second
+type=int, var=IntValue, value=46
+type=double, var=DoubleValue, value=78.71
+fqn:objComp.util.Second
+type=int, var=IntValue, value=92
+type=double, var=DoubleValue, value=5.62
+fqn:objComp.util.First
+type=int, var=IntValue, value=80
+type=String, var=StringValue, value=tundras
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=39.9
+type=int, var=IntValue, value=42
+fqn:objComp.util.First
+type=String, var=StringValue, value=disfranchise
+type=int, var=IntValue, value=47
+fqn:objComp.util.First
+type=int, var=IntValue, value=63
+type=String, var=StringValue, value=laymans
+fqn:objComp.util.First
+type=String, var=StringValue, value=wrigglers
+type=int, var=IntValue, value=1
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=5.65
+fqn:objComp.util.Second
+type=int, var=IntValue, value=68
+type=double, var=DoubleValue, value=53.14
+fqn:objComp.util.Second
+type=int, var=IntValue, value=40
+type=double, var=DoubleValue, value=46.67
+fqn:objComp.util.First
+type=int, var=IntValue, value=84
+type=String, var=StringValue, value=calliope
+fqn:objComp.util.First
+type=String, var=StringValue, value=ungracious
+type=int, var=IntValue, value=67
+fqn:objComp.util.Second
+type=int, var=IntValue, value=74
+type=double, var=DoubleValue, value=62.9
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=34.1
+type=int, var=IntValue, value=6
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=11.52
+type=int, var=IntValue, value=77
+fqn:objComp.util.First
+type=String, var=StringValue, value=guffaws
+type=int, var=IntValue, value=95
+fqn:objComp.util.First
+type=String, var=StringValue, value=strophe
+type=int, var=IntValue, value=72
+fqn:objComp.util.First
+type=String, var=StringValue, value=farmer
+type=int, var=IntValue, value=78
+fqn:objComp.util.First
+type=int, var=IntValue, value=41
+type=String, var=StringValue, value=staggers
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=66.96
+type=int, var=IntValue, value=26
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=61.52
+type=int, var=IntValue, value=68
+fqn:objComp.util.Second
+type=int, var=IntValue, value=72
+type=double, var=DoubleValue, value=6.25
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=4.71
+type=int, var=IntValue, value=80
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=86.25
+type=int, var=IntValue, value=21
+fqn:objComp.util.First
+type=int, var=IntValue, value=30
+type=String, var=StringValue, value=demigods
+fqn:objComp.util.Second
+type=int, var=IntValue, value=11
+type=double, var=DoubleValue, value=5.22
+fqn:objComp.util.Second
+type=int, var=IntValue, value=59
+type=double, var=DoubleValue, value=32.69
+fqn:objComp.util.Second
+type=int, var=IntValue, value=95
+type=double, var=DoubleValue, value=64.86
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=69.15
+type=int, var=IntValue, value=36
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=cursed
+fqn:objComp.util.Second
+type=int, var=IntValue, value=48
+type=double, var=DoubleValue, value=14.6
+fqn:objComp.util.First
+type=int, var=IntValue, value=44
+type=String, var=StringValue, value=mockery
+fqn:objComp.util.Second
+type=int, var=IntValue, value=60
+type=double, var=DoubleValue, value=95.38
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=56.53
+type=int, var=IntValue, value=41
+fqn:objComp.util.Second
+type=int, var=IntValue, value=3
+type=double, var=DoubleValue, value=79.16
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=97.89
+type=int, var=IntValue, value=98
+fqn:objComp.util.First
+type=String, var=StringValue, value=fourteenth
+type=int, var=IntValue, value=24
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=10.28
+type=int, var=IntValue, value=85
+fqn:objComp.util.First
+type=int, var=IntValue, value=21
+type=String, var=StringValue, value=wildly
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=42.0
+type=int, var=IntValue, value=73
+fqn:objComp.util.First
+type=String, var=StringValue, value=married
+type=int, var=IntValue, value=91
+fqn:objComp.util.First
+type=int, var=IntValue, value=79
+type=String, var=StringValue, value=skinned
+fqn:objComp.util.First
+type=String, var=StringValue, value=menopause
+type=int, var=IntValue, value=56
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=27.53
+type=int, var=IntValue, value=64
+fqn:objComp.util.First
+type=int, var=IntValue, value=100
+type=String, var=StringValue, value=antagonized
+fqn:objComp.util.First
+type=String, var=StringValue, value=captured
+type=int, var=IntValue, value=73
+fqn:objComp.util.First
+type=String, var=StringValue, value=handstands
+type=int, var=IntValue, value=9
+fqn:objComp.util.First
+type=int, var=IntValue, value=54
+type=String, var=StringValue, value=embittered
+fqn:objComp.util.First
+type=String, var=StringValue, value=flights
+type=int, var=IntValue, value=83
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=88.14
+type=int, var=IntValue, value=17
