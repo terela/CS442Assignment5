@@ -50,7 +50,7 @@ public class First {
     public boolean equals(Object o) {
         return ((o instanceof First) && 
                 (IntValue == ((First) o).IntValue) && 
-                (StringValue == ((First) o).StringValue));
+                (StringValue.equals(((First) o).StringValue)));
     }
 
 
