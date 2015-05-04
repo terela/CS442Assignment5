@@ -6,16 +6,35 @@ import objComp.util.Second;
 import objComp.util.MyLogger;
 import objComp.fileOperations.FileProcessor;
 
+import java.lang.reflect.Method;
+import java.lang.reflect.InvocationTargetException;
+
+import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.Collections;
+
+
 
 /**
  * PopulateObjects - contains the data structure populated with first and second objects
  */
 public class PopulateObjects {
+    private static final Map<String, Class> classMap;
+    static {
+        classMap = new HashMap<String, Class>();
+        classMap.put("byte", java.lang.Byte.class);
+        classMap.put("short", java.lang.Short.class);
+        classMap.put("int", java.lang.Integer.class);
+        classMap.put("long", java.lang.Long.class);
+        classMap.put("float", java.lang.Float.class);
+        classMap.put("double", java.lang.Double.class);
+        classMap.put("String", java.lang.String.class);
+    }
+
     private class Worker implements Runnable {
-        private final String[] lines;
+        private String[] lines;
 
         private final int s;
         private final int e;
@@ -46,6 +65,7 @@ public class PopulateObjects {
 
             Class cls;
             Object obj;
+            vars = new String[2][];
             Method[] mth = new Method[2];
             Class[][] paramTypes = new Class[2][];
             Object[][] args = new Object[2][];
@@ -57,61 +77,54 @@ public class PopulateObjects {
             for (Class[] c: paramTypes) {
                 c = new Class[1];
             }
+            try {
+                for (int i = s; i < e; i += 3) {
+                    className = getClassName(lines[i]);
+                    vars[0] = getVarInfo(lines[i+1]);
+                    vars[1] = getVarInfo(lines[i+2]);
 
-            for (int i = s; i < e; i += 3) {
-                className = getClassName(lines[i]);
-                vars[0] = getVarInfo(lines[i+1]);
-                vars[1] = getVarInfo(lines[i+2]);
 
+                    cls = Class.forName(className);
+                    obj = cls.newInstance();
 
-                cls = Class.forName(className);
-                obj = cls.newInstance();
-
-                for (int j = 0; j < 2; ++j) {
-                    paramTypes[j][0] = stringToClass(vars[j][0]);
-                    mth[j] = cls.getMethod("set" + vars[j][1], paramTypes[j]);
-                    args[j][0] = stringToObject(paramTypes[j][0], vars[j][2]);
-                    cls.invoke(obj, args[j]);
+                    for (int j = 0; j < 2; ++j) {
+                        paramTypes[j][0] = PopulateObjects.classMap.get(vars[j][0]);
+                        mth[j] = cls.getMethod("set" + vars[j][1], paramTypes[j]);
+                        args[j][0] = paramTypes[j][0].getDeclaredConstructor(String.class).newInstance(vars[j][2]);
+                        mth[j].invoke(obj, args[j]);
+                    }
+                    if (className.equals("First")) {
+                        firstMap.compute((First)obj, (key, value) -> (value == null) ? 1 : value + 1);
+                    } else {
+                        secondMap.compute((Second)obj, (key, value) -> (value == null) ? 1 : value + 1);
+                    }
                 }
-                if (className.equals("First")) {
-                    firstMap.compute(obj, (key, value) -> (value == null) ? 1 : value + 1);
-                } else {
-                    secondMap.compute(obj, (key, value) -> (value == null) ? 1 : value + 1);
-                }
+            }  catch (Exception e) {
+                //
             }
         }
 
-        private final static String getClassName(String line) {
+        private String getClassName(String line) {
             /* 
              * TODO:
              *  takes a line containing fqn:<className>
              *  returns <className>
              */
+            return line.substring(4);
 
         }
 
-        private final static String[3] getVarInfo(String line) {
+        private String[] getVarInfo(String line) {
             /* 
              * TODO:
              * takes type=<typeName>, var=<varName>, value=<varValue>
              *  returns [<typeName>, <varName>, <varValue>]
              */
+            String s[] = {"int", "IntValue", "44"};
+            return s;
+
         }
 
-        private final static Class stringToClass(String className) {
-            /**
-             * TODO:
-             * takes "int|double|String"
-             * returns Integer.TYPE|Double.TYPE|String.class
-             */
-        }
-
-        private final static Object stringToObject(Class cls, String val) {
-            /**
-             * TODO:
-             * return object of type cls with value val
-             */
-        }
 
     }
 
@@ -121,8 +134,8 @@ public class PopulateObjects {
 
     private int size;
 
-    private Worker[num_threads] workers;
-    private Thread[num_threads] threads;
+    private Worker[] workers;
+    private Thread[] threads;
 
     private String[] lines;
 
@@ -131,8 +144,7 @@ public class PopulateObjects {
     public PopulateObjects(FileProcessor fpIn) {
 
         fp = fpIn;
-        size = fp.readAllLines.size();
-        arr = new String[size];
+        size = fp.readAllLines().size();
 
         int work = (size/3)/num_threads;
 
