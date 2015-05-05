@@ -68,4 +68,12 @@ public class First {
             47 * StringValue.charAt(StringValue.length() - 1) +
             67 * StringValue.charAt(IntValue % StringValue.length());
     }
+
+
+
+	public void setIntValue(Integer iIn) {
+
+		IntValue = (int) iIn;
+
+	}
 }

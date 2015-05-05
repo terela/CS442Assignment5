@@ -63,4 +63,14 @@ public class Second {
     public int hashCode() {
         return IntValue + 3 * ((Double) DoubleValue).hashCode();
     }
+	
+    
+    public void setIntValue(Integer iIn) {
+		IntValue = (int) iIn;
+	}
+
+    public void setDoubleValue(Double dIn) {
+        DoubleValue = (double) dIn;
+    }
+
 }
