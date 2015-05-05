@@ -92,8 +92,8 @@
     </target>
 
     <target name="tarzip" > 
-        <delete file="./caleb_donovick_alexander_terela_assign5.tar" quiet="true" /> 
-        <tar destfile="${BUILD}/dist/caleb_donovick_alexander_terela_assign5.tar.gz" basedir="../../" compression="gzip"/>
+        <delete file="./donovick_caleb_terela_alexander_assign5.tar" quiet="true" /> 
+        <tar destfile="${BUILD}/dist/donovick_caleb_terela_alexander_assign5.tar.gz" basedir="../../" compression="gzip"/>
     </target>
 
     <target name="profile" depends ="jar">
