@@ -53,9 +53,9 @@ public class PopulateObjects {
         }
 
         /**
-         *  TODO:
-         *      get className
-         *      get varInfo
+         *  
+         *      
+         *      
          *      
          **/
         @Override
@@ -80,14 +80,23 @@ public class PopulateObjects {
             try {
                 for (int i = s; i < e; i += 3) {
                     className = getClassName(lines[i]);
+		    System.out.println("Class Name: " + className);
                     vars[0] = getVarInfo(lines[i+1]);
                     vars[1] = getVarInfo(lines[i+2]);
+		    
+		    /*System.out.println("Vars: ");
+		    for (int k = 0; k < 2; k ++) {
 
+			    for (int l = 0; l < 3; l++) {
+				    System.out.println(vars[k][l]);
+			    }
+
+		    }*/
 
                     cls = Class.forName(className);
                     obj = cls.newInstance();
 
-                    for (int j = 0; j < 2; ++j) {
+                    for (int j = 1; j < 3; ++j) {
                         paramTypes[j][0] = PopulateObjects.classMap.get(vars[j][0]);
                         mth[j] = cls.getMethod("set" + vars[j][1], paramTypes[j]);
                         args[j][0] = paramTypes[j][0].getDeclaredConstructor(String.class).newInstance(vars[j][2]);
@@ -106,7 +115,6 @@ public class PopulateObjects {
 
         private String getClassName(String line) {
             /* 
-             * TODO:
              *  takes a line containing fqn:<className>
              *  returns <className>
              */
@@ -116,12 +124,21 @@ public class PopulateObjects {
 
         private String[] getVarInfo(String line) {
             /* 
-             * TODO:
              * takes type=<typeName>, var=<varName>, value=<varValue>
              *  returns [<typeName>, <varName>, <varValue>]
              */
-            String s[] = {"int", "IntValue", "44"};
-            return s;
+            //String s[] = {"int", "IntValue", "44"};	
+		String[] tokens = line.split("\\s?type=|,\\s+var=|,\\s+value=");
+/*
+		System.out.println("Tokens: " + tokens.length + ", from:\n" + line);
+		for (int k = 0; k < tokens.length; k ++) {
+		
+			System.out.println(tokens[k]);
+		
+		}
+*/		
+		assert (tokens.length == 4);
+		return tokens;
 
         }
 
@@ -132,10 +149,10 @@ public class PopulateObjects {
     private Map<Second, Integer> secondMap;
     private static final int num_threads = Runtime.getRuntime().availableProcessors();
 
-    private int size;
+    private static Integer size = null;
 
-    private Worker[] workers;
-    private Thread[] threads;
+    private static Worker[] workers;
+    private static Thread[] threads;
 
     private String[] lines;
 
@@ -144,13 +161,15 @@ public class PopulateObjects {
     public PopulateObjects(FileProcessor fpIn) {
 
         fp = fpIn;
-        size = fp.readAllLines().size();
+	if (size == null) {
+	        size = fp.readAllLines().size();
+		workers = new Worker[num_threads];
+	        threads = new Thread[num_threads];
+	}
 
         int work = (size/3)/num_threads;
 
-        workers = new Worker[num_threads];
-        threads = new Thread[num_threads];
-        firstMap = new ConcurrentHashMap<First, Integer>();
+                firstMap = new ConcurrentHashMap<First, Integer>();
         secondMap = new ConcurrentHashMap<Second, Integer>();
 
         for (int i = 0; i < num_threads-1; i++) {
@@ -172,6 +191,8 @@ public class PopulateObjects {
         List<String> lines = fp.readAllLines();
         String[] arr = lines.toArray(new String[size]);
 
+	//System.out.println("Lines: " + lines.toString());
+
         for (int i = num_threads - 1; i >= 0; --i) {
             workers[i].setLines(arr);
             threads[i] = new Thread(workers[i]);
@@ -187,5 +208,42 @@ public class PopulateObjects {
             e.printStackTrace();
             System.exit(1);
         }
-    }	
+    }
+
+    /**
+     * nonDuplicateTotal - returns the total number of instances of first and second
+     *
+     * @return total the integer array containing the totals
+     */
+    public int[] totals() {
+
+	    int[] total = new int[4];
+	    int numFirst = 0;
+	    int numSecond = 0;
+
+	    for (Map.Entry<First, Integer> i: firstMap.entrySet()) {
+            	int val = i.getValue();
+            	numFirst += val;
+		
+	    }
+
+	    for (Map.Entry<Second, Integer> i: secondMap.entrySet()) {
+            	int val = i.getValue();
+            	numSecond += val;
+	    }
+
+	    // non dupe first
+	    total[0] = firstMap.size();
+	    // total first
+	    total[1] = numFirst;
+	    // non dupe second
+	    total[2] = secondMap.size();
+	    // total second
+	    total[3] = numSecond;
+
+	    return total;
+
+
+    }
+
 }

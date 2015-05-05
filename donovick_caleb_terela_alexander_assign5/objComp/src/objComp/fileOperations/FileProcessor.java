@@ -18,19 +18,17 @@ import objComp.util.MyLogger;
 public class FileProcessor {
 
 	private String inputFile;
-    private String outputFile;
 
 	/**
 	 * Constructor - constructs a file processor object
 	 *
 	 * @return the file processor object
 	 */
-	public FileProcessor(String inputFileIn, String outputFileIn) {
+	public FileProcessor(String inputFileIn) {
 
 		MyLogger.printToStdout(2, "Constructor in FileProcessor called.");
 
 		inputFile = inputFileIn;
-        outputFile = outputFileIn;
 	}
 
 	// read line method
@@ -73,7 +71,7 @@ public class FileProcessor {
 	 * @return lines the lines in the file
 	 */
     public List<String> readAllLines() {
-		MyLogger.printToStdout(3, "readALlLines() in FileProcessor called.");
+		MyLogger.printToStdout(3, "readAllLines() in FileProcessor called.");
         List<String> lines = null;
         try {
             lines = Files.readAllLines((new File(inputFile)).toPath());
@@ -94,6 +92,7 @@ public class FileProcessor {
 	 *
 	 * @return none
 	 */
+    	/*
 	public void writeToFile(String value) {
 
 		MyLogger.printToStdout(3, "writeToFile() in FileProcessor called.");
@@ -119,6 +118,7 @@ public class FileProcessor {
 		}
 
 	}
+	*/
 	
 	/**
 	 * getInputFile - gets and returns the input file name
