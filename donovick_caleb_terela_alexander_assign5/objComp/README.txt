@@ -32,6 +32,9 @@ FILES:
 
   Driver - tests the objComp program
   FileProcessor - contains methods to read the input file a line at a time
+  First - models the first object
+  Second - models the second object
+  PopulateObjects - contains the data structure populated with first and second objects
   MyLogger - simulates the java logger class
 
   README.txt, the text file you are presently reading
@@ -45,21 +48,32 @@ FILES:
 
 JUSTIFICATION:
 
-
+We chose to use the hash map data structure in order to track when duplicate First or Second objects existed in the input file and because a hash map has a O(1) complexity for searching and inserting into the data structure. For further optimizations, we utilized flags in our build.xml file in order to allocate a higher amount of memory to improve program performance and called the aggressive optimization flag for the JVM.
 
 SAMPLE OUTPUT:
 
-Alexs-MacBook-Air-6:wordCount alex$ ant -buildfile src/build.xml -Darg0=input1M.txt -Darg1=output.txt -Darg2=5 -Darg3=4 run
-Buildfile: /Users/alex/Documents/BU/Junior Spring 2015/CS 442/Assignment4/donovick_caleb_terela_alexander_assign4/wordCount/src/build.xml
+Alexs-MacBook-Air-6:objComp alex$ ant -buildfile src/build.xml -Darg0=input/inputbig.txt -Darg1=5 -Darg2=0 all run
+Buildfile: /Users/alex/Documents/BU/Junior Spring 2015/CS 442/Assignment5/donovick_caleb_terela_alexander_assign5/objComp/src/build.xml
+
+prepare:
+
+objComp:
+
+compile_all:
+
+all:
 
 jar:
-      [jar] Building jar: /Users/alex/Documents/BU/Junior Spring 2015/CS 442/Assignment4/donovick_caleb_terela_alexander_assign4/wordCount/BUILD/jar/wordCount.jar
 
 run:
-     [java] Total iteration time: 557 millisecond.
+     [java] Number of non-duplidate First objects: 237
+     [java] Total Number of First objects: 474
+     [java] Number of non-duplidate Second objects: 263
+     [java] Total Number of Second objects: 526
+     [java] Total time: 89 milliseconds.
 
 BUILD SUCCESSFUL
-Total time: 3 seconds
+Total time: 1 second
 
 TO COMPILE:
 
@@ -73,13 +87,13 @@ TO RUN:
 ## To run, edit the build.xml to enter args (search for arg0, arg1, arg2, arg3)
 Assuming you are in the directory containing this README:
 
-ex. ant -buildfile src/build.xml -Darg0=‘inputFile.txt’ -Darg2=NUM_ITERATIONS ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4’ Darg3=DUBUG_VALUE ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4 run
+ex. ant -buildfile src/build.xml -Darg0=‘inputFile.txt’ -Darg1=NUM_ITERATIONS ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4’ Darg2=DUBUG_VALUE ex. ‘0’, or ‘1’, or ‘2’, or ‘3’, or ‘4 run
 
-ant -buildfile src/build.xml -Darg0=new_in1.txt -Darg1=0 -Darg2=4 run
+ant -buildfile src/build.xml -Darg0=inputsmall.txt -Darg1=5 -Darg2=0 run
 
 EXTRA CREDIT:
 
-
+We created two new methods in First and Second, setIntValue, which uses the box primitive Integer type and setDoubleValue, which uses the box primitive Double type. In our deserObjects method, we utilized the built in java method getDeclaredConstructor to read these box primitive types. This allowed us to further generalize our code than required in the assignment guidelines and allowed us to prevent it being cluttered with if statements.
 
 BIBLIOGRAPHY:
 

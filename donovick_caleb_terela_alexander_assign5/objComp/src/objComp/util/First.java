@@ -1,7 +1,9 @@
 package objComp.util;
 
+import objComp.util.MyLogger;
+
 /**
- * First - Models the first object
+ * First - models the first object
  */
 public class First {
 
@@ -16,7 +18,7 @@ public class First {
 	 * @return first the first object
 	 */
 	public First() {
-
+		MyLogger.printToStdout(2, "Constructor in First called.");
 	}
 
 	/**
@@ -26,7 +28,22 @@ public class First {
 	 */
 	public void setIntValue(int iIn) {
 
+		MyLogger.printToStdout(3, "setIntValue() in First called.");
+
 		IntValue = iIn;
+
+	}
+
+	/**
+	 * setIntValue - sets the integer private data member value
+	 *
+	 * @return none
+	 */
+	public void setIntValue(Integer iIn) {
+
+		MyLogger.printToStdout(3, "setIntValue() in First called.");
+
+		IntValue = (int) iIn;
 
 	}
 
@@ -37,6 +54,8 @@ public class First {
 	 */
 	public void setStringValue(String sIn) {
 
+		MyLogger.printToStdout(3, "setStringValue() in First called.");
+
 		StringValue = sIn;
 
 	}
@@ -46,12 +65,15 @@ public class First {
 	 *
 	 * @return boolean
 	 */
-    @Override
-    public boolean equals(Object o) {
-        return ((o instanceof First) && 
-                (IntValue == ((First) o).IntValue) && 
-                (StringValue.equals(((First) o).StringValue)));
-    }
+	@Override
+	public boolean equals(Object o) {
+
+		MyLogger.printToStdout(3, "equals() in First called.");
+
+		return ((o instanceof First) && 
+				(IntValue == ((First) o).IntValue) && 
+				(StringValue.equals(((First) o).StringValue)));
+	}
 
 
 	/**
@@ -59,21 +81,17 @@ public class First {
 	 *
 	 * @return int
 	 */
-    @Override
-    public int hashCode() {
-        return IntValue + 
-            31 * StringValue.length() + 
-            37 * StringValue.charAt(0) + 
-            41 * StringValue.charAt(StringValue.length()/2) + 
-            47 * StringValue.charAt(StringValue.length() - 1) +
-            67 * StringValue.charAt(IntValue % StringValue.length());
-    }
+	@Override
+	public int hashCode() {
 
+		MyLogger.printToStdout(3, "hashCode() in First called.");
 
-
-	public void setIntValue(Integer iIn) {
-
-		IntValue = (int) iIn;
-
+		return IntValue + 
+			31 * StringValue.length() + 
+			37 * StringValue.charAt(0) + 
+			41 * StringValue.charAt(StringValue.length()/2) + 
+			47 * StringValue.charAt(StringValue.length() - 1) +
+			67 * StringValue.charAt(IntValue % StringValue.length());
 	}
+
 }

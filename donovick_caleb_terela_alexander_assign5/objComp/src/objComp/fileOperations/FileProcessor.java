@@ -1,17 +1,17 @@
 package objComp.fileOperations;
 
+import objComp.util.MyLogger;
+
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-
 import java.util.List;
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.charset.Charset;
 
-import objComp.util.MyLogger;
 /**
  * FileProcessor - contains methods to read a line and write to a file
  */
@@ -32,7 +32,7 @@ public class FileProcessor {
 	}
 
 	// read line method
-	
+
 	/**
 	 * readLine - reads and returns the current line of the file as a string
 	 *
@@ -61,64 +61,28 @@ public class FileProcessor {
 			System.exit(1);
 
 		} finally {
-		    return line;
+			return line;
 		}
 	}
-	
+
 	/**
 	 * readAllLines - readAllLines of a files
 	 *
 	 * @return lines the lines in the file
 	 */
-    public List<String> readAllLines() {
+	public List<String> readAllLines() {
 		MyLogger.printToStdout(3, "readAllLines() in FileProcessor called.");
-        List<String> lines = null;
-        try {
-            lines = Files.readAllLines((new File(inputFile)).toPath());
-        } catch (IOException e) {
-			MyLogger.printToStdout(0, "Error message in FileProcessor called.");
-
-			e.printStackTrace();
-
-			System.exit(1);
-        } finally {
-            return lines;
-        }
-    }
-	// write to file method
-	
-	/**
-	 * writeToFile - writes the value parameter to the outputFile parameter
-	 *
-	 * @return none
-	 */
-    	/*
-	public void writeToFile(String value) {
-
-		MyLogger.printToStdout(3, "writeToFile() in FileProcessor called.");
-
+		List<String> lines = null;
 		try {
-
-			PrintWriter output = new PrintWriter(new FileWriter(outputFile, false));
-			
-			output.write(value);
-			
-			output.close();
-
-		} catch (IOException e) {
-
-			MyLogger.printToStdout(0, "Error message in FileProcessor called.");
-
+			lines = Files.readAllLines((new File(inputFile)).toPath());
+		} catch (IOException e) {	
 			e.printStackTrace();
 
 			System.exit(1);
-
 		} finally {
-
+			return lines;
 		}
-
 	}
-	*/
 	
 	/**
 	 * getInputFile - gets and returns the input file name

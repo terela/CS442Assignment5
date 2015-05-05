@@ -4,6 +4,7 @@ import objComp.util.First;
 import objComp.util.Second;
 import objComp.fileOperations.FileProcessor;
 import objComp.util.PopulateObjects;
+import objComp.util.MyLogger;
 
 /**
  * Driver - tests the objComp program
@@ -24,18 +25,14 @@ public class Driver {
 		} catch (NumberFormatException e) {
 			System.err.println("Second parameter must be an integer!");
 			System.exit(1);
-		} finally {
-
-		}
+		} finally {}
 
 		try {
 			Integer.parseInt(args[2]);
 		} catch (NumberFormatException e) {
 			System.err.println("Third parameter must be an integer!");
 			System.exit(1);
-		} finally {
-
-		}
+		} finally {}
 
 		String inputFile = args[0];
 		//String outputFile = args[1];
@@ -63,15 +60,19 @@ public class Driver {
 		long total_time = (finishTime - startTime) / n;
 
 		//System.out.println("Total iteration time: " + total_time + " millisecond.");
-		
+
 		int[] totals = populateObjects.totals();
 
-		System.out.println("Number of non-duplidate First objects: " + totals[0]);
-		System.out.println("Total Number of First objects: " + totals[1]);
-		System.out.println("Number of non-duplidate Second objects: " + totals[2]);
-		System.out.println("Total Number of Second objects: " + totals[3]);
+		if (myLoggerValue == 0) {
 
-		System.out.println("Total time: " + total_time + " milliseconds.");
+			System.out.println("Number of non-duplidate First objects: " + totals[0]);
+			System.out.println("Total Number of First objects: " + totals[1]);
+			System.out.println("Number of non-duplidate Second objects: " + totals[2]);
+			System.out.println("Total Number of Second objects: " + totals[3]);
+
+			System.out.println("Total time: " + total_time + " milliseconds.");
+
+		}
 
 	}
 }

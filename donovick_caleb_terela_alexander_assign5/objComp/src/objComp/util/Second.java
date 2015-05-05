@@ -1,12 +1,14 @@
 package objComp.util;
 
+import objComp.util.MyLogger;
+
 /**
- * Second - Models the second object
+ * Second - models the second object
  */
 public class Second {
 
 	// private data members
-	
+
 	private double DoubleValue;
 	private int IntValue;
 
@@ -17,6 +19,8 @@ public class Second {
 	 */
 	public Second() {
 
+		MyLogger.printToStdout(2, "Constructor in Second called.");
+
 	}
 
 	/**
@@ -25,9 +29,23 @@ public class Second {
 	 * @return none
 	 */
 	public void setIntValue(int iIn) {
-		
+
+		MyLogger.printToStdout(3, "setIntValue() in Second called.");
+
 		IntValue = iIn;
 
+	}
+
+	/**
+	 * setIntValue - sets the integer private data member value
+	 *
+	 * @return none
+	 */
+	public void setIntValue(Integer iIn) {
+
+		MyLogger.printToStdout(3, "setIntValue() in Second called.");
+
+		IntValue = (int) iIn;
 	}
 
 	/**
@@ -37,8 +55,22 @@ public class Second {
 	 */
 	public void setDoubleValue(double dIn) {
 
+		MyLogger.printToStdout(3, "setIntValue() in Second called.");
+
 		DoubleValue = dIn;
 
+	}
+
+	/**
+	 * setDoubleValue - sets the double private data member value
+	 *
+	 * @return none
+	 */
+	public void setDoubleValue(Double dIn) {
+
+		MyLogger.printToStdout(3, "setIntValue() in Second called.");
+
+		DoubleValue = (double) dIn;
 	}
 
 	/**
@@ -46,12 +78,15 @@ public class Second {
 	 *
 	 * @return boolean
 	 */
-    @Override
-    public boolean equals(Object o) {
-        return ((o instanceof Second) && 
-                (IntValue == ((Second) o).IntValue) && 
-                (DoubleValue == ((Second) o).DoubleValue));
-    }
+	@Override
+	public boolean equals(Object o) {
+
+		MyLogger.printToStdout(3, "equals() in Second called.");
+
+		return ((o instanceof Second) && 
+				(IntValue == ((Second) o).IntValue) && 
+				(DoubleValue == ((Second) o).DoubleValue));
+	}
 
 
 	/**
@@ -59,18 +94,12 @@ public class Second {
 	 *
 	 * @return int
 	 */
-    @Override
-    public int hashCode() {
-        return IntValue + 3 * ((Double) DoubleValue).hashCode();
-    }
-	
-    
-    public void setIntValue(Integer iIn) {
-		IntValue = (int) iIn;
-	}
+	@Override
+	public int hashCode() {
 
-    public void setDoubleValue(Double dIn) {
-        DoubleValue = (double) dIn;
-    }
+		MyLogger.printToStdout(3, "hashCode() in Second called.");
+
+		return IntValue + 3 * ((Double) DoubleValue).hashCode();
+	}	
 
 }
